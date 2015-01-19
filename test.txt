@@ -1,0 +1,4939 @@
+did not get
+Reset Comm done
+in reset nod id = 101
+in reset nod id = 100
+Reset Node Done...Press any key
+In Op Mode
+Roll: -0.71, Pitch: 0.28, Yaw: -50.44
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.45
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.47
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.46
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.47
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.43
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.43
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.28, Yaw: -50.42
+angle = -27
+angle = 15
+Roll: -0.72, Pitch: 0.20, Yaw: -50.41
+angle = -28
+angle = 11
+Roll: -0.73, Pitch: 0.17, Yaw: -50.41
+angle = -28
+angle = 9
+Roll: -0.72, Pitch: 0.20, Yaw: -50.42
+angle = -28
+angle = 11
+Roll: -0.72, Pitch: 0.23, Yaw: -50.50
+angle = -27
+angle = 12
+Roll: -0.72, Pitch: 0.20, Yaw: -50.63
+angle = -28
+angle = 11
+Roll: -0.73, Pitch: 0.16, Yaw: -50.74
+angle = -28
+angle = 8
+Roll: -0.73, Pitch: 0.14, Yaw: -50.82
+angle = -28
+angle = 7
+Roll: -0.72, Pitch: 0.16, Yaw: -50.89
+angle = -28
+angle = 9
+Roll: -0.72, Pitch: 0.22, Yaw: -50.95
+angle = -27
+angle = 12
+Roll: -0.71, Pitch: 0.25, Yaw: -51.00
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.26, Yaw: -51.04
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.26, Yaw: -51.09
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -51.15
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.29, Yaw: -51.19
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.33, Yaw: -51.19
+angle = -27
+angle = 18
+Roll: -0.72, Pitch: 0.36, Yaw: -51.17
+angle = -27
+angle = 20
+Roll: -0.75, Pitch: 0.40, Yaw: -51.14
+angle = -29
+angle = 22
+Roll: -0.85, Pitch: 0.52, Yaw: -51.12
+angle = -32
+angle = 29
+Roll: -0.94, Pitch: 0.78, Yaw: -51.08
+angle = -36
+angle = 43
+Roll: -0.92, Pitch: 1.19, Yaw: -50.98
+angle = -35
+angle = 66
+Roll: -0.98, Pitch: 1.65, Yaw: -50.82
+angle = -38
+angle = 91
+Roll: -0.98, Pitch: 2.12, Yaw: -50.62
+angle = -38
+angle = 118
+Roll: -1.03, Pitch: 2.58, Yaw: -50.39
+angle = -39
+angle = 143
+Roll: -1.11, Pitch: 3.05, Yaw: -50.20
+angle = -43
+angle = 169
+Roll: -1.21, Pitch: 3.45, Yaw: -50.07
+angle = -46
+angle = 191
+Roll: -1.31, Pitch: 3.77, Yaw: -50.00
+angle = -51
+angle = 209
+Roll: -1.44, Pitch: 3.97, Yaw: -50.01
+angle = -55
+angle = 220
+Roll: -1.56, Pitch: 4.06, Yaw: -50.05
+angle = -60
+angle = 225
+Roll: -1.68, Pitch: 4.08, Yaw: -50.06
+angle = -65
+angle = 226
+Roll: -1.78, Pitch: 4.10, Yaw: -50.03
+angle = -69
+angle = 227
+Roll: -1.88, Pitch: 4.14, Yaw: -50.00
+angle = -73
+angle = 230
+Roll: -1.98, Pitch: 4.24, Yaw: -49.96
+angle = -77
+angle = 235
+Roll: -2.10, Pitch: 4.38, Yaw: -49.90
+angle = -81
+angle = 243
+Roll: -2.19, Pitch: 4.55, Yaw: -49.82
+angle = -85
+angle = 252
+Roll: -2.29, Pitch: 4.75, Yaw: -49.72
+angle = -88
+angle = 263
+Roll: -2.39, Pitch: 4.95, Yaw: -49.61
+angle = -93
+angle = 275
+Roll: -2.52, Pitch: 5.16, Yaw: -49.51
+angle = -98
+angle = 286
+Roll: -2.66, Pitch: 5.45, Yaw: -49.45
+angle = -103
+angle = 302
+Roll: -2.77, Pitch: 5.85, Yaw: -49.43
+angle = -107
+angle = 325
+Roll: -2.81, Pitch: 6.33, Yaw: -49.44
+angle = -109
+angle = 351
+Roll: -2.81, Pitch: 6.84, Yaw: -49.43
+angle = -109
+angle = 379
+Roll: -2.78, Pitch: 7.30, Yaw: -49.43
+angle = -107
+angle = 405
+Roll: -2.78, Pitch: 7.69, Yaw: -49.41
+angle = -108
+angle = 427
+Roll: -2.81, Pitch: 8.04, Yaw: -49.38
+angle = -109
+angle = 446
+Roll: -2.85, Pitch: 8.41, Yaw: -49.36
+angle = -110
+angle = 467
+Roll: -2.87, Pitch: 8.84, Yaw: -49.32
+angle = -111
+angle = 491
+Roll: -2.88, Pitch: 9.27, Yaw: -49.25
+angle = -112
+angle = 515
+Roll: -2.89, Pitch: 9.69, Yaw: -49.15
+angle = -112
+angle = 538
+Roll: -2.90, Pitch: 10.11, Yaw: -49.04
+angle = -112
+angle = 561
+Roll: -2.89, Pitch: 10.56, Yaw: -48.94
+angle = -112
+angle = 586
+Roll: -2.86, Pitch: 11.09, Yaw: -48.85
+angle = -111
+angle = 616
+Roll: -2.83, Pitch: 11.72, Yaw: -48.78
+angle = -109
+angle = 651
+Roll: -2.76, Pitch: 12.43, Yaw: -48.71
+angle = -107
+angle = 690
+Roll: -2.65, Pitch: 13.13, Yaw: -48.63
+angle = -102
+angle = 729
+Roll: -2.51, Pitch: 13.74, Yaw: -48.55
+angle = -97
+angle = 763
+Roll: -2.32, Pitch: 14.22, Yaw: -48.44
+angle = -90
+angle = 790
+Roll: -2.12, Pitch: 14.66, Yaw: -48.31
+angle = -82
+angle = 814
+Roll: -1.93, Pitch: 15.14, Yaw: -48.16
+angle = -74
+angle = 841
+Roll: -1.73, Pitch: 15.73, Yaw: -48.00
+angle = -67
+angle = 874
+Roll: -1.51, Pitch: 16.45, Yaw: -47.83
+angle = -58
+angle = 913
+Roll: -1.38, Pitch: 17.27, Yaw: -47.66
+angle = -53
+angle = 959
+Roll: -1.32, Pitch: 18.07, Yaw: -47.52
+angle = -51
+angle = 1003
+Roll: -1.26, Pitch: 18.80, Yaw: -47.42
+angle = -49
+angle = 1044
+Roll: -1.17, Pitch: 19.49, Yaw: -47.36
+angle = -45
+angle = 1082
+Roll: -1.04, Pitch: 20.21, Yaw: -47.31
+angle = -40
+angle = 1122
+Roll: -0.85, Pitch: 21.04, Yaw: -47.26
+angle = -33
+angle = 1169
+Roll: -0.58, Pitch: 22.02, Yaw: -47.18
+angle = -22
+angle = 1223
+Roll: -0.24, Pitch: 23.12, Yaw: -47.06
+angle = -9
+angle = 1284
+Roll: 0.14, Pitch: 24.23, Yaw: -46.88
+angle = 5
+angle = 1345
+Roll: 0.53, Pitch: 25.27, Yaw: -46.66
+angle = 20
+angle = 1403
+Roll: 0.92, Pitch: 26.27, Yaw: -46.44
+angle = 35
+angle = 1459
+Roll: 1.33, Pitch: 27.32, Yaw: -46.20
+angle = 51
+angle = 1517
+Roll: 1.75, Pitch: 28.47, Yaw: -45.95
+angle = 67
+angle = 1581
+Roll: 2.17, Pitch: 29.66, Yaw: -45.64
+angle = 84
+angle = 1647
+Roll: 2.57, Pitch: 30.80, Yaw: -45.31
+angle = 99
+angle = 1710
+Roll: 2.93, Pitch: 31.82, Yaw: -44.97
+angle = 114
+angle = 1767
+Roll: 3.25, Pitch: 32.73, Yaw: -44.66
+angle = 126
+angle = 1818
+Press a key 
+Roll: 3.55, Pitch: 33.59, Yaw: -44.38
+angle = 137
+angle = 1866
+Roll: 3.78, Pitch: 34.43, Yaw: -44.12
+angle = 146
+angle = 1912
+Roll: 4.00, Pitch: 35.23, Yaw: -43.88
+angle = 155
+angle = 1957
+Roll: 4.23, Pitch: 35.98, Yaw: -43.67
+angle = 164
+angle = 1998
+Roll: 4.46, Pitch: 36.65, Yaw: -43.45
+angle = 173
+angle = 2036
+Roll: 4.61, Pitch: 37.22, Yaw: -43.24
+angle = 179
+angle = 2068
+Roll: 4.67, Pitch: 37.72, Yaw: -43.08
+angle = 181
+angle = 2095
+Roll: 4.67, Pitch: 38.19, Yaw: -43.00
+angle = 181
+angle = 2121
+Roll: 4.66, Pitch: 38.64, Yaw: -42.97
+angle = 181
+angle = 2146
+Roll: 4.65, Pitch: 39.10, Yaw: -42.97
+angle = 180
+angle = 2172
+Roll: 4.67, Pitch: 39.57, Yaw: -42.99
+angle = 181
+angle = 2198
+Roll: 4.69, Pitch: 40.00, Yaw: -42.98
+angle = 182
+angle = 2222
+Roll: 4.68, Pitch: 40.35, Yaw: -43.00
+angle = 182
+angle = 2241
+Roll: 4.62, Pitch: 40.65, Yaw: -43.05
+angle = 179
+angle = 2258
+Roll: 4.54, Pitch: 40.90, Yaw: -43.13
+angle = 176
+angle = 2272
+Roll: 4.44, Pitch: 41.09, Yaw: -43.22
+angle = 172
+angle = 2282
+Roll: 4.35, Pitch: 41.23, Yaw: -43.33
+angle = 168
+angle = 2290
+Roll: 4.28, Pitch: 41.31, Yaw: -43.45
+angle = 166
+angle = 2295
+Roll: 4.21, Pitch: 41.35, Yaw: -43.56
+angle = 163
+angle = 2297
+Roll: 4.12, Pitch: 41.35, Yaw: -43.67
+angle = 160
+angle = 2297
+Roll: 4.02, Pitch: 41.29, Yaw: -43.79
+angle = 156
+angle = 2293
+Roll: 3.90, Pitch: 41.20, Yaw: -43.92
+angle = 151
+angle = 2288
+Roll: 3.79, Pitch: 41.11, Yaw: -44.05
+angle = 147
+angle = 2283
+Roll: 3.70, Pitch: 41.02, Yaw: -44.17
+angle = 143
+angle = 2279
+Roll: 3.63, Pitch: 40.92, Yaw: -44.27
+angle = 141
+angle = 2273
+Roll: 3.57, Pitch: 40.77, Yaw: -44.34
+angle = 138
+angle = 2264
+Roll: 3.50, Pitch: 40.57, Yaw: -44.41
+angle = 136
+angle = 2253
+Roll: 3.43, Pitch: 40.34, Yaw: -44.47
+angle = 133
+angle = 2241
+Roll: 3.37, Pitch: 40.06, Yaw: -44.53
+angle = 130
+angle = 2225
+Roll: 3.29, Pitch: 39.73, Yaw: -44.58
+angle = 127
+angle = 2207
+Roll: 3.18, Pitch: 39.33, Yaw: -44.63
+angle = 123
+angle = 2184
+Roll: 3.03, Pitch: 38.80, Yaw: -44.72
+angle = 117
+angle = 2155
+Roll: 2.82, Pitch: 38.11, Yaw: -44.85
+angle = 109
+angle = 2117
+Roll: 2.53, Pitch: 37.23, Yaw: -45.05
+angle = 98
+angle = 2068
+Roll: 2.16, Pitch: 36.17, Yaw: -45.32
+angle = 83
+angle = 2009
+Roll: 1.71, Pitch: 34.96, Yaw: -45.66
+angle = 66
+angle = 1942
+Roll: 1.25, Pitch: 33.65, Yaw: -46.05
+angle = 48
+angle = 1869
+Roll: 0.80, Pitch: 32.26, Yaw: -46.45
+angle = 31
+angle = 1792
+Roll: 0.35, Pitch: 30.79, Yaw: -46.83
+angle = 13
+angle = 1710
+Roll: -0.10, Pitch: 29.26, Yaw: -47.20
+angle = -3
+angle = 1625
+Roll: -0.49, Pitch: 27.66, Yaw: -47.53
+angle = -18
+angle = 1536
+Roll: -0.87, Pitch: 26.09, Yaw: -47.83
+angle = -33
+angle = 1449
+Roll: -1.24, Pitch: 24.62, Yaw: -48.11
+angle = -48
+angle = 1368
+Roll: -1.48, Pitch: 23.20, Yaw: -48.34
+angle = -57
+angle = 1289
+Roll: -1.60, Pitch: 21.84, Yaw: -48.51
+angle = -62
+angle = 1213
+Roll: -1.62, Pitch: 20.56, Yaw: -48.64
+angle = -63
+angle = 1142
+Roll: -1.54, Pitch: 19.38, Yaw: -48.72
+angle = -59
+angle = 1076
+Roll: -1.41, Pitch: 18.30, Yaw: -48.75
+angle = -54
+angle = 1016
+Roll: -1.29, Pitch: 17.27, Yaw: -48.72
+angle = -50
+angle = 959
+Roll: -1.26, Pitch: 16.26, Yaw: -48.67
+angle = -48
+angle = 903
+Roll: -1.31, Pitch: 15.20, Yaw: -48.66
+angle = -51
+angle = 844
+Roll: -1.40, Pitch: 14.04, Yaw: -48.66
+angle = -54
+angle = 780
+Roll: -1.49, Pitch: 12.79, Yaw: -48.66
+angle = -57
+angle = 710
+Roll: -1.54, Pitch: 11.46, Yaw: -48.61
+angle = -59
+angle = 636
+Roll: -1.58, Pitch: 10.13, Yaw: -48.52
+angle = -61
+angle = 562
+Roll: -1.59, Pitch: 8.82, Yaw: -48.38
+angle = -61
+angle = 490
+Roll: -1.60, Pitch: 7.57, Yaw: -48.24
+angle = -62
+angle = 420
+Roll: -1.61, Pitch: 6.45, Yaw: -48.11
+angle = -62
+angle = 358
+Roll: -1.60, Pitch: 5.47, Yaw: -48.00
+angle = -62
+angle = 304
+Roll: -1.52, Pitch: 4.63, Yaw: -47.90
+angle = -59
+angle = 257
+Roll: -1.39, Pitch: 3.82, Yaw: -47.81
+angle = -54
+angle = 212
+Roll: -1.23, Pitch: 3.02, Yaw: -47.73
+angle = -47
+angle = 167
+Roll: -1.09, Pitch: 2.21, Yaw: -47.67
+angle = -42
+angle = 122
+Roll: -0.90, Pitch: 1.34, Yaw: -47.62
+angle = -35
+angle = 74
+Roll: -0.76, Pitch: 0.47, Yaw: -47.58
+angle = -29
+angle = 26
+Roll: -0.71, Pitch: -0.37, Yaw: -47.57
+angle = -27
+angle = -20
+Roll: -0.70, Pitch: -1.25, Yaw: -47.57
+angle = -27
+angle = -69
+Roll: -0.69, Pitch: -2.20, Yaw: -47.56
+angle = -26
+angle = -122
+Roll: -0.66, Pitch: -3.14, Yaw: -47.51
+angle = -25
+angle = -174
+Roll: -0.58, Pitch: -4.01, Yaw: -47.41
+angle = -22
+angle = -222
+Roll: -0.51, Pitch: -4.85, Yaw: -47.25
+angle = -19
+angle = -269
+Roll: -0.44, Pitch: -5.63, Yaw: -47.06
+angle = -16
+angle = -312
+Roll: -0.37, Pitch: -6.28, Yaw: -46.88
+angle = -14
+angle = -349
+Roll: -0.31, Pitch: -6.84, Yaw: -46.72
+angle = -11
+angle = -380
+Roll: -0.23, Pitch: -7.31, Yaw: -46.60
+angle = -8
+angle = -406
+Roll: -0.14, Pitch: -7.66, Yaw: -46.51
+angle = -5
+angle = -425
+Roll: -0.03, Pitch: -7.93, Yaw: -46.47
+angle = -1
+angle = -440
+Roll: 0.10, Pitch: -8.13, Yaw: -46.45
+angle = 3
+angle = -451
+Roll: 0.20, Pitch: -8.30, Yaw: -46.45
+angle = 7
+angle = -461
+Roll: 0.23, Pitch: -8.50, Yaw: -46.42
+angle = 8
+angle = -472
+Roll: 0.16, Pitch: -8.75, Yaw: -46.39
+angle = 6
+angle = -486
+Roll: 0.16, Pitch: -8.90, Yaw: -46.38
+angle = 6
+angle = -494
+Roll: 0.33, Pitch: -8.76, Yaw: -46.34
+angle = 12
+angle = -486
+Roll: 0.36, Pitch: -8.65, Yaw: -46.24
+angle = 14
+angle = -480
+Roll: 0.32, Pitch: -8.61, Yaw: -46.19
+angle = 12
+angle = -478
+Roll: 0.20, Pitch: -8.59, Yaw: -46.21
+angle = 7
+angle = -477
+Roll: 0.20, Pitch: -8.59, Yaw: -46.21
+angle = 7
+angle = -477
+Roll: -0.01, Pitch: -8.50, Yaw: -46.20
+angle = 0
+angle = -472
+Roll: -0.05, Pitch: -8.35, Yaw: -46.17
+angle = -2
+angle = -464
+Roll: -0.07, Pitch: -8.18, Yaw: -46.14
+angle = -2
+angle = -454
+Roll: -0.10, Pitch: -8.01, Yaw: -46.07
+angle = -3
+angle = -445
+Roll: -0.16, Pitch: -7.87, Yaw: -45.98
+angle = -6
+angle = -437
+Roll: -0.26, Pitch: -7.72, Yaw: -45.89
+angle = -9
+angle = -428
+Roll: -0.36, Pitch: -7.49, Yaw: -45.79
+angle = -14
+angle = -416
+Roll: -0.45, Pitch: -7.20, Yaw: -45.69
+angle = -17
+angle = -399
+Roll: -0.52, Pitch: -6.77, Yaw: -45.61
+angle = -20
+angle = -376
+Roll: -0.52, Pitch: -6.28, Yaw: -45.53
+angle = -20
+angle = -348
+Roll: -0.48, Pitch: -5.80, Yaw: -45.43
+angle = -18
+angle = -322
+Roll: -0.45, Pitch: -5.34, Yaw: -45.34
+angle = -17
+angle = -296
+Roll: -0.41, Pitch: -4.89, Yaw: -45.24
+angle = -16
+angle = -271
+Roll: -0.39, Pitch: -4.32, Yaw: -45.12
+angle = -15
+angle = -239
+Roll: -0.39, Pitch: -3.55, Yaw: -44.99
+angle = -15
+angle = -197
+Roll: -0.35, Pitch: -2.64, Yaw: -44.84
+angle = -13
+angle = -146
+Roll: -0.27, Pitch: -1.60, Yaw: -44.70
+angle = -10
+angle = -88
+Roll: -0.20, Pitch: -0.46, Yaw: -44.57
+angle = -7
+angle = -25
+Roll: -0.15, Pitch: 0.73, Yaw: -44.45
+angle = -5
+angle = 40
+Roll: -0.16, Pitch: 2.03, Yaw: -44.35
+angle = -6
+angle = 112
+Roll: -0.14, Pitch: 3.48, Yaw: -44.28
+angle = -5
+angle = 193
+Roll: -0.05, Pitch: 5.10, Yaw: -44.17
+angle = -1
+angle = 283
+Roll: 0.14, Pitch: 6.86, Yaw: -44.03
+angle = 5
+angle = 381
+Roll: 0.39, Pitch: 8.68, Yaw: -43.85
+angle = 15
+angle = 482
+Roll: 0.55, Pitch: 10.50, Yaw: -43.67
+angle = 21
+angle = 583
+Roll: 0.53, Pitch: 12.28, Yaw: -43.54
+angle = 20
+angle = 682
+Roll: 0.42, Pitch: 14.00, Yaw: -43.49
+angle = 16
+angle = 777
+Roll: 0.26, Pitch: 15.84, Yaw: -43.50
+angle = 10
+angle = 879
+Roll: 0.10, Pitch: 17.79, Yaw: -43.54
+angle = 3
+angle = 988
+Roll: -0.04, Pitch: 19.73, Yaw: -43.55
+angle = -1
+angle = 1095
+Roll: -0.04, Pitch: 21.60, Yaw: -43.57
+angle = -1
+angle = 1199
+Roll: 0.20, Pitch: 23.28, Yaw: -43.54
+angle = 7
+angle = 1293
+Roll: 0.59, Pitch: 24.79, Yaw: -43.46
+angle = 23
+angle = 1377
+Roll: 1.08, Pitch: 26.05, Yaw: -43.34
+angle = 41
+angle = 1446
+Roll: 1.63, Pitch: 27.28, Yaw: -43.11
+angle = 63
+angle = 1515
+Roll: 1.98, Pitch: 28.66, Yaw: -42.85
+angle = 76
+angle = 1592
+Roll: 2.01, Pitch: 30.01, Yaw: -42.65
+angle = 78
+angle = 1667
+Roll: 1.99, Pitch: 31.19, Yaw: -42.56
+angle = 77
+angle = 1732
+Roll: 2.06, Pitch: 32.24, Yaw: -42.53
+angle = 80
+angle = 1791
+Roll: 2.01, Pitch: 33.26, Yaw: -42.51
+angle = 78
+angle = 1848
+Roll: 2.09, Pitch: 34.20, Yaw: -42.53
+angle = 81
+angle = 1900
+Roll: 2.29, Pitch: 35.13, Yaw: -42.53
+angle = 88
+angle = 1951
+Roll: 2.53, Pitch: 36.09, Yaw: -42.46
+angle = 98
+angle = 2005
+Roll: 2.53, Pitch: 36.09, Yaw: -42.35
+angle = 98
+angle = 2005
+Roll: 3.09, Pitch: 37.85, Yaw: -42.35
+angle = 120
+angle = 2102
+Roll: 3.29, Pitch: 38.68, Yaw: -42.11
+angle = 128
+angle = 2148
+Roll: 3.44, Pitch: 39.53, Yaw: -42.03
+angle = 133
+angle = 2195
+Roll: 3.61, Pitch: 40.36, Yaw: -41.97
+angle = 140
+angle = 2242
+Roll: 3.77, Pitch: 41.14, Yaw: -41.89
+angle = 146
+angle = 2285
+Roll: 3.83, Pitch: 41.77, Yaw: -41.80
+angle = 148
+angle = 2320
+Roll: 3.79, Pitch: 42.27, Yaw: -41.77
+angle = 147
+angle = 2348
+Roll: 3.73, Pitch: 42.74, Yaw: -41.83
+angle = 144
+angle = 2374
+Roll: 3.70, Pitch: 43.20, Yaw: -41.91
+angle = 143
+angle = 2400
+Roll: 3.68, Pitch: 43.64, Yaw: -41.99
+angle = 143
+angle = 2424
+Roll: 3.66, Pitch: 44.02, Yaw: -42.07
+angle = 142
+angle = 2445
+Roll: 3.56, Pitch: 44.31, Yaw: -42.15
+angle = 138
+angle = 2461
+Roll: 3.39, Pitch: 44.48, Yaw: -42.28
+angle = 131
+angle = 2471
+Roll: 3.17, Pitch: 44.60, Yaw: -42.44
+angle = 123
+angle = 2477
+Roll: 2.94, Pitch: 44.67, Yaw: -42.63
+angle = 114
+angle = 2481
+Roll: 2.72, Pitch: 44.69, Yaw: -42.83
+angle = 105
+angle = 2483
+Roll: 2.54, Pitch: 44.72, Yaw: -43.01
+angle = 98
+angle = 2484
+Roll: 2.40, Pitch: 44.75, Yaw: -43.15
+angle = 93
+angle = 2486
+Roll: 2.29, Pitch: 44.72, Yaw: -43.24
+angle = 89
+angle = 2484
+Roll: 2.20, Pitch: 44.59, Yaw: -43.32
+angle = 85
+angle = 2477
+Roll: 2.11, Pitch: 44.37, Yaw: -43.38
+angle = 81
+angle = 2464
+Roll: 1.99, Pitch: 44.04, Yaw: -43.41
+angle = 77
+angle = 2446
+Roll: 1.86, Pitch: 43.62, Yaw: -43.44
+angle = 72
+angle = 2423
+Roll: 1.72, Pitch: 43.16, Yaw: -43.48
+angle = 66
+angle = 2397
+Roll: 1.61, Pitch: 42.68, Yaw: -43.51
+angle = 62
+angle = 2370
+Roll: 1.53, Pitch: 42.11, Yaw: -43.53
+angle = 59
+angle = 2339
+Roll: 1.41, Pitch: 41.43, Yaw: -43.54
+angle = 54
+angle = 2301
+Roll: 1.24, Pitch: 40.57, Yaw: -43.57
+angle = 48
+angle = 2253
+Roll: 1.00, Pitch: 39.56, Yaw: -43.65
+angle = 38
+angle = 2197
+Roll: 0.73, Pitch: 38.46, Yaw: -43.77
+angle = 28
+angle = 2136
+Roll: 0.47, Pitch: 37.24, Yaw: -43.93
+angle = 18
+angle = 2068
+Roll: 0.18, Pitch: 35.92, Yaw: -44.11
+angle = 7
+angle = 1995
+Roll: -0.12, Pitch: 34.56, Yaw: -44.30
+angle = -4
+angle = 1920
+Roll: -0.39, Pitch: 33.10, Yaw: -44.48
+angle = -15
+angle = 1838
+Roll: -0.70, Pitch: 31.61, Yaw: -44.64
+angle = -27
+angle = 1756
+Roll: -1.03, Pitch: 30.19, Yaw: -44.80
+angle = -40
+angle = 1677
+Roll: -1.31, Pitch: 28.80, Yaw: -44.96
+angle = -51
+angle = 1599
+Roll: -1.58, Pitch: 27.58, Yaw: -45.11
+angle = -61
+angle = 1532
+Roll: -1.78, Pitch: 26.49, Yaw: -45.22
+angle = -69
+angle = 1471
+Roll: -1.92, Pitch: 25.29, Yaw: -45.28
+angle = -74
+angle = 1404
+Roll: -2.10, Pitch: 23.98, Yaw: -45.32
+angle = -81
+angle = 1332
+Roll: -2.34, Pitch: 22.56, Yaw: -45.34
+angle = -91
+angle = 1253
+Roll: -2.65, Pitch: 21.05, Yaw: -45.31
+angle = -102
+angle = 1169
+Roll: -2.97, Pitch: 19.43, Yaw: -45.25
+angle = -115
+angle = 1079
+Roll: -3.29, Pitch: 17.76, Yaw: -45.15
+angle = -128
+angle = 986
+Roll: -3.64, Pitch: 16.27, Yaw: -45.05
+angle = -141
+angle = 903
+Roll: -3.91, Pitch: 14.91, Yaw: -44.96
+angle = -152
+angle = 828
+Roll: -4.12, Pitch: 13.74, Yaw: -44.87
+angle = -160
+angle = 763
+Roll: -4.29, Pitch: 12.74, Yaw: -44.83
+angle = -166
+angle = 707
+Roll: -4.39, Pitch: 11.78, Yaw: -44.79
+angle = -170
+angle = 654
+Roll: -4.53, Pitch: 10.90, Yaw: -44.74
+angle = -176
+angle = 605
+Roll: -4.75, Pitch: 10.02, Yaw: -44.70
+angle = -184
+angle = 556
+Roll: -4.93, Pitch: 9.06, Yaw: -44.67
+angle = -191
+angle = 503
+Roll: -5.13, Pitch: 8.12, Yaw: -44.61
+angle = -199
+angle = 451
+Roll: -5.30, Pitch: 7.19, Yaw: -44.55
+angle = -206
+angle = 399
+Roll: -5.30, Pitch: 7.19, Yaw: -44.47
+angle = -206
+angle = 399
+Roll: -5.54, Pitch: 5.38, Yaw: -44.37
+angle = -215
+angle = 299
+Roll: -5.71, Pitch: 4.63, Yaw: -44.24
+angle = -222
+angle = 256
+Roll: -5.87, Pitch: 3.91, Yaw: -44.10
+angle = -228
+angle = 217
+Roll: -5.98, Pitch: 3.24, Yaw: -43.96
+angle = -232
+angle = 180
+Roll: -6.02, Pitch: 2.65, Yaw: -43.85
+angle = -234
+angle = 147
+Roll: -5.96, Pitch: 2.18, Yaw: -43.75
+angle = -231
+angle = 121
+Roll: -5.83, Pitch: 1.87, Yaw: -43.69
+angle = -226
+angle = 103
+Roll: -5.62, Pitch: 1.65, Yaw: -43.66
+angle = -218
+angle = 91
+Roll: -5.37, Pitch: 1.49, Yaw: -43.62
+angle = -208
+angle = 83
+Roll: -5.11, Pitch: 1.44, Yaw: -43.58
+angle = -198
+angle = 80
+Roll: -4.81, Pitch: 1.46, Yaw: -43.51
+angle = -186
+angle = 80
+Roll: -4.51, Pitch: 1.48, Yaw: -43.43
+angle = -175
+angle = 82
+Roll: -4.28, Pitch: 1.47, Yaw: -43.34
+angle = -166
+angle = 81
+Roll: -4.13, Pitch: 1.37, Yaw: -43.26
+angle = -160
+angle = 76
+Roll: -3.93, Pitch: 1.35, Yaw: -43.17
+angle = -152
+angle = 75
+Roll: -3.73, Pitch: 1.42, Yaw: -43.05
+angle = -145
+angle = 78
+Roll: -3.60, Pitch: 1.43, Yaw: -42.96
+angle = -140
+angle = 79
+Roll: -3.51, Pitch: 1.46, Yaw: -42.93
+angle = -136
+angle = 80
+Roll: -3.47, Pitch: 1.49, Yaw: -42.94
+angle = -134
+angle = 82
+Roll: -3.43, Pitch: 1.50, Yaw: -42.99
+angle = -133
+angle = 83
+Roll: -3.39, Pitch: 1.48, Yaw: -43.05
+angle = -131
+angle = 82
+Roll: -3.36, Pitch: 1.46, Yaw: -43.12
+angle = -130
+angle = 81
+Roll: -3.33, Pitch: 1.44, Yaw: -43.17
+angle = -129
+angle = 80
+Roll: -3.30, Pitch: 1.44, Yaw: -43.19
+angle = -128
+angle = 80
+Roll: -3.28, Pitch: 1.51, Yaw: -43.20
+angle = -127
+angle = 83
+Roll: -3.18, Pitch: 1.69, Yaw: -43.19
+angle = -123
+angle = 94
+Roll: -2.95, Pitch: 2.01, Yaw: -43.17
+angle = -114
+angle = 111
+Roll: -2.59, Pitch: 2.44, Yaw: -43.12
+angle = -100
+angle = 135
+Roll: -2.13, Pitch: 2.93, Yaw: -43.03
+angle = -82
+angle = 162
+Roll: -1.66, Pitch: 3.41, Yaw: -42.90
+angle = -64
+angle = 189
+Roll: -1.22, Pitch: 3.88, Yaw: -42.76
+angle = -47
+angle = 215
+Roll: -0.84, Pitch: 4.28, Yaw: -42.62
+angle = -32
+angle = 237
+Roll: -0.56, Pitch: 4.62, Yaw: -42.50
+angle = -21
+angle = 256
+Roll: -0.56, Pitch: 4.62, Yaw: -42.42
+angle = -21
+angle = 256
+Roll: -0.99, Pitch: 4.16, Yaw: -42.42
+angle = -38
+angle = 231
+Roll: -1.16, Pitch: 3.42, Yaw: -42.43
+angle = -45
+angle = 190
+Roll: -1.06, Pitch: 3.13, Yaw: -42.49
+angle = -41
+angle = 173
+Roll: -1.09, Pitch: 2.99, Yaw: -42.45
+angle = -42
+angle = 166
+Roll: -1.11, Pitch: 2.91, Yaw: -42.43
+angle = -43
+angle = 161
+Roll: -1.10, Pitch: 2.84, Yaw: -42.49
+angle = -42
+angle = 157
+Roll: -1.14, Pitch: 2.71, Yaw: -42.57
+angle = -44
+angle = 150
+Roll: -1.13, Pitch: 2.57, Yaw: -42.63
+angle = -43
+angle = 142
+Roll: -1.08, Pitch: 2.49, Yaw: -42.67
+angle = -42
+angle = 138
+Roll: -1.06, Pitch: 2.42, Yaw: -42.69
+angle = -41
+angle = 134
+Roll: -1.03, Pitch: 2.32, Yaw: -42.68
+angle = -39
+angle = 128
+Roll: -1.02, Pitch: 2.18, Yaw: -42.66
+angle = -39
+angle = 120
+Roll: -1.02, Pitch: 2.03, Yaw: -42.63
+angle = -39
+angle = 112
+Roll: -1.02, Pitch: 1.89, Yaw: -42.61
+angle = -39
+angle = 104
+Roll: -1.03, Pitch: 1.75, Yaw: -42.58
+angle = -39
+angle = 97
+Roll: -1.02, Pitch: 1.68, Yaw: -42.57
+angle = -39
+angle = 93
+Roll: -1.02, Pitch: 1.69, Yaw: -42.54
+angle = -39
+angle = 93
+Roll: -1.02, Pitch: 1.76, Yaw: -42.52
+angle = -39
+angle = 98
+Roll: -1.02, Pitch: 1.89, Yaw: -42.51
+angle = -39
+angle = 105
+Roll: -1.02, Pitch: 2.04, Yaw: -42.51
+angle = -39
+angle = 113
+Roll: -1.02, Pitch: 2.22, Yaw: -42.51
+angle = -39
+angle = 123
+Roll: -1.01, Pitch: 2.45, Yaw: -42.51
+angle = -39
+angle = 136
+Roll: -1.01, Pitch: 2.74, Yaw: -42.51
+angle = -39
+angle = 152
+Roll: -1.00, Pitch: 3.07, Yaw: -42.50
+angle = -38
+angle = 170
+Roll: -0.98, Pitch: 3.48, Yaw: -42.48
+angle = -38
+angle = 193
+Roll: -0.96, Pitch: 3.97, Yaw: -42.43
+angle = -37
+angle = 220
+Roll: -0.95, Pitch: 4.55, Yaw: -42.35
+angle = -36
+angle = 252
+Roll: -0.93, Pitch: 5.21, Yaw: -42.22
+angle = -36
+angle = 289
+Roll: -0.90, Pitch: 5.95, Yaw: -42.04
+angle = -34
+angle = 330
+Roll: -0.86, Pitch: 6.76, Yaw: -41.83
+angle = -33
+angle = 375
+Roll: -0.83, Pitch: 7.68, Yaw: -41.61
+angle = -32
+angle = 426
+Roll: -0.79, Pitch: 8.70, Yaw: -41.37
+angle = -30
+angle = 483
+Roll: -0.75, Pitch: 9.79, Yaw: -41.15
+angle = -29
+angle = 543
+Roll: -0.75, Pitch: 9.79, Yaw: -40.92
+angle = -29
+angle = 543
+Roll: -0.66, Pitch: 12.06, Yaw: -40.92
+angle = -25
+angle = 669
+Roll: -0.62, Pitch: 13.24, Yaw: -40.62
+angle = -24
+angle = 735
+Roll: -0.58, Pitch: 14.52, Yaw: -40.57
+angle = -22
+angle = 806
+Roll: -0.54, Pitch: 15.81, Yaw: -40.64
+angle = -21
+angle = 878
+Roll: -0.49, Pitch: 16.97, Yaw: -40.77
+angle = -18
+angle = 942
+Roll: -0.46, Pitch: 17.91, Yaw: -40.93
+angle = -18
+angle = 994
+Roll: -0.45, Pitch: 18.71, Yaw: -41.10
+angle = -17
+angle = 1039
+Roll: -0.43, Pitch: 19.53, Yaw: -41.22
+angle = -16
+angle = 1085
+Roll: -0.41, Pitch: 20.35, Yaw: -41.34
+angle = -15
+angle = 1130
+Roll: -0.39, Pitch: 21.13, Yaw: -41.50
+angle = -15
+angle = 1173
+Roll: -0.36, Pitch: 21.89, Yaw: -41.67
+angle = -14
+angle = 1216
+Roll: -0.34, Pitch: 22.63, Yaw: -41.83
+angle = -13
+angle = 1257
+Roll: -0.32, Pitch: 23.34, Yaw: -42.01
+angle = -12
+angle = 1296
+Roll: -0.29, Pitch: 24.06, Yaw: -42.16
+angle = -11
+angle = 1336
+Roll: -0.27, Pitch: 24.79, Yaw: -42.27
+angle = -10
+angle = 1377
+Roll: -0.26, Pitch: 25.51, Yaw: -42.32
+angle = -10
+angle = 1417
+Roll: -0.27, Pitch: 26.24, Yaw: -42.33
+angle = -10
+angle = 1457
+Roll: -0.27, Pitch: 26.94, Yaw: -42.36
+angle = -10
+angle = 1496
+Roll: -0.27, Pitch: 27.62, Yaw: -42.37
+angle = -10
+angle = 1534
+Roll: -0.27, Pitch: 28.32, Yaw: -42.36
+angle = -10
+angle = 1573
+Roll: -0.29, Pitch: 29.11, Yaw: -42.35
+angle = -11
+angle = 1616
+Roll: -0.30, Pitch: 29.88, Yaw: -42.34
+angle = -11
+angle = 1660
+Roll: -0.31, Pitch: 30.63, Yaw: -42.43
+angle = -12
+angle = 1701
+Roll: -0.31, Pitch: 31.40, Yaw: -42.51
+angle = -11
+angle = 1744
+Roll: -0.31, Pitch: 32.15, Yaw: -42.56
+angle = -12
+angle = 1786
+Roll: -0.32, Pitch: 32.83, Yaw: -42.60
+angle = -12
+angle = 1823
+Roll: -0.33, Pitch: 33.36, Yaw: -42.61
+angle = -12
+angle = 1853
+Roll: -0.33, Pitch: 33.75, Yaw: -42.63
+angle = -12
+angle = 1875
+Roll: -0.33, Pitch: 33.99, Yaw: -42.61
+angle = -12
+angle = 1888
+Roll: -0.33, Pitch: 34.19, Yaw: -42.60
+angle = -12
+angle = 1899
+Roll: -0.34, Pitch: 34.34, Yaw: -42.57
+angle = -13
+angle = 1907
+Roll: -0.34, Pitch: 34.34, Yaw: -42.56
+angle = -13
+angle = 1907
+Roll: -0.34, Pitch: 34.69, Yaw: -42.66
+angle = -13
+angle = 1927
+Roll: -0.34, Pitch: 34.89, Yaw: -42.80
+angle = -13
+angle = 1938
+Roll: -0.34, Pitch: 35.01, Yaw: -42.92
+angle = -13
+angle = 1945
+Roll: -0.34, Pitch: 35.14, Yaw: -43.02
+angle = -13
+angle = 1952
+Roll: -0.34, Pitch: 35.20, Yaw: -43.08
+angle = -13
+angle = 1955
+Roll: -0.34, Pitch: 35.23, Yaw: -43.12
+angle = -13
+angle = 1957
+Roll: -0.34, Pitch: 35.25, Yaw: -43.12
+angle = -13
+angle = 1958
+Roll: -0.34, Pitch: 35.26, Yaw: -43.09
+angle = -13
+angle = 1959
+Roll: -0.34, Pitch: 35.26, Yaw: -43.07
+angle = -13
+angle = 1958
+Roll: -0.34, Pitch: 35.25, Yaw: -43.07
+angle = -13
+angle = 1958
+Roll: -0.34, Pitch: 35.23, Yaw: -43.07
+angle = -13
+angle = 1957
+Roll: -0.33, Pitch: 35.20, Yaw: -43.06
+angle = -13
+angle = 1955
+Roll: -0.33, Pitch: 35.17, Yaw: -43.06
+angle = -12
+angle = 1953
+Roll: -0.33, Pitch: 35.17, Yaw: -43.05
+angle = -12
+angle = 1953
+Roll: -0.33, Pitch: 35.17, Yaw: -43.02
+angle = -12
+angle = 1953
+Roll: -0.33, Pitch: 35.15, Yaw: -42.97
+angle = -12
+angle = 1952
+Roll: -0.33, Pitch: 35.10, Yaw: -42.94
+angle = -12
+angle = 1949
+Roll: -0.33, Pitch: 35.01, Yaw: -42.92
+angle = -12
+angle = 1944
+Roll: -0.33, Pitch: 34.86, Yaw: -42.90
+angle = -12
+angle = 1936
+Roll: -0.33, Pitch: 34.63, Yaw: -42.89
+angle = -12
+angle = 1923
+Roll: -0.33, Pitch: 34.30, Yaw: -42.87
+angle = -12
+angle = 1905
+Roll: -0.33, Pitch: 33.88, Yaw: -42.87
+angle = -12
+angle = 1881
+Roll: -0.33, Pitch: 33.36, Yaw: -42.86
+angle = -12
+angle = 1853
+Roll: -0.33, Pitch: 32.74, Yaw: -42.85
+angle = -12
+angle = 1818
+Roll: -0.32, Pitch: 32.01, Yaw: -42.82
+angle = -12
+angle = 1778
+Roll: -0.32, Pitch: 31.14, Yaw: -42.79
+angle = -12
+angle = 1729
+Roll: -0.31, Pitch: 30.11, Yaw: -42.78
+angle = -12
+angle = 1672
+Roll: -0.30, Pitch: 29.01, Yaw: -42.77
+angle = -11
+angle = 1611
+Roll: -0.29, Pitch: 27.87, Yaw: -42.76
+angle = -11
+angle = 1548
+Roll: -0.28, Pitch: 26.68, Yaw: -42.75
+angle = -10
+angle = 1482
+Roll: -0.28, Pitch: 25.47, Yaw: -42.74
+angle = -10
+angle = 1415
+Roll: -0.30, Pitch: 24.26, Yaw: -42.72
+angle = -11
+angle = 1347
+Roll: -0.33, Pitch: 23.10, Yaw: -42.68
+angle = -12
+angle = 1283
+Roll: -0.37, Pitch: 21.98, Yaw: -42.62
+angle = -14
+angle = 1221
+Roll: -0.41, Pitch: 20.87, Yaw: -42.52
+angle = -15
+angle = 1159
+Roll: -0.44, Pitch: 19.74, Yaw: -42.44
+angle = -17
+angle = 1096
+Roll: -0.48, Pitch: 18.64, Yaw: -42.34
+angle = -18
+angle = 1035
+Roll: -0.48, Pitch: 18.64, Yaw: -42.13
+angle = -18
+angle = 1035
+Roll: -0.56, Pitch: 16.27, Yaw: -42.13
+angle = -21
+angle = 903
+Roll: -0.60, Pitch: 15.01, Yaw: -41.67
+angle = -23
+angle = 834
+Roll: -0.66, Pitch: 13.72, Yaw: -41.48
+angle = -25
+angle = 762
+Roll: -0.72, Pitch: 12.40, Yaw: -41.25
+angle = -28
+angle = 688
+Roll: -0.78, Pitch: 11.08, Yaw: -41.01
+angle = -30
+angle = 615
+Roll: -0.83, Pitch: 9.75, Yaw: -40.78
+angle = -32
+angle = 541
+Roll: -0.87, Pitch: 8.39, Yaw: -40.58
+angle = -33
+angle = 466
+Roll: -0.91, Pitch: 7.03, Yaw: -40.40
+angle = -35
+angle = 390
+Roll: -0.95, Pitch: 5.71, Yaw: -40.27
+angle = -36
+angle = 317
+Roll: -0.99, Pitch: 4.42, Yaw: -40.21
+angle = -38
+angle = 245
+Roll: -1.01, Pitch: 3.11, Yaw: -40.20
+angle = -39
+angle = 172
+Roll: -1.01, Pitch: 1.79, Yaw: -40.19
+angle = -39
+angle = 99
+Roll: -0.99, Pitch: 0.46, Yaw: -40.18
+angle = -38
+angle = 25
+Roll: -0.79, Pitch: 0.32, Yaw: -40.19
+angle = -30
+angle = 17
+Roll: -0.73, Pitch: 0.27, Yaw: -40.20
+angle = -28
+angle = 15
+Roll: -0.73, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.28, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.28, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.28, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.28, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 15
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.27, Yaw: -40.18
+angle = -28
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.27, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.26, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.26, Yaw: -40.17
+angle = -29
+angle = 14
+Roll: -0.75, Pitch: 0.26, Yaw: -40.17
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.26, Yaw: -40.17
+angle = -28
+angle = 14
+Roll: -0.75, Pitch: 0.26, Yaw: -40.17
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.26, Yaw: -40.17
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.26, Yaw: -40.17
+angle = -28
+angle = 14
+Roll: -0.74, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 14
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.73, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.72, Pitch: 0.25, Yaw: -40.16
+angle = -28
+angle = 13
+Roll: -0.72, Pitch: 0.25, Yaw: -40.16
+angle = -27
+angle = 13
+Roll: -0.72, Pitch: 0.25, Yaw: -40.11
+angle = -27
+angle = 13
+Roll: -0.72, Pitch: 0.25, Yaw: -40.01
+angle = -27
+angle = 13
+Roll: -0.72, Pitch: 0.25, Yaw: -40.01
+angle = -27
+angle = 13
+Roll: -0.70, Pitch: 0.25, Yaw: -39.92
+angle = -27
+angle = 14
+Roll: -0.66, Pitch: 0.26, Yaw: -39.86
+angle = -25
+angle = 14
+Roll: -0.61, Pitch: 0.28, Yaw: -39.79
+angle = -23
+angle = 15
+Roll: -0.61, Pitch: 0.28, Yaw: -39.74
+angle = -23
+angle = 15
+Roll: -0.38, Pitch: 0.37, Yaw: -39.74
+angle = -14
+angle = 20
+Roll: -0.26, Pitch: 0.42, Yaw: -39.62
+angle = -10
+angle = 23
+Roll: -0.15, Pitch: 0.47, Yaw: -39.62
+angle = -6
+angle = 25
+Roll: -0.04, Pitch: 0.52, Yaw: -39.62
+angle = -1
+angle = 28
+Roll: 0.14, Pitch: 0.59, Yaw: -39.62
+angle = 5
+angle = 32
+Roll: 0.42, Pitch: 0.70, Yaw: -39.68
+angle = 16
+angle = 38
+Roll: 0.70, Pitch: 0.81, Yaw: -39.77
+angle = 27
+angle = 45
+Roll: 0.71, Pitch: 0.80, Yaw: -39.85
+angle = 27
+angle = 44
+Roll: 0.96, Pitch: 0.77, Yaw: -39.97
+angle = 37
+angle = 42
+Roll: 1.34, Pitch: 0.73, Yaw: -40.17
+angle = 52
+angle = 40
+Roll: 1.85, Pitch: 0.70, Yaw: -40.36
+angle = 71
+angle = 38
+Roll: 2.43, Pitch: 0.69, Yaw: -40.54
+angle = 94
+angle = 38
+Roll: 3.04, Pitch: 0.69, Yaw: -40.69
+angle = 118
+angle = 38
+Roll: 3.66, Pitch: 0.68, Yaw: -40.80
+angle = 142
+angle = 38
+Roll: 4.28, Pitch: 0.69, Yaw: -40.87
+angle = 166
+angle = 38
+Roll: 4.92, Pitch: 0.71, Yaw: -40.90
+angle = 191
+angle = 39
+Roll: 5.57, Pitch: 0.77, Yaw: -40.89
+angle = 216
+angle = 42
+Roll: 6.21, Pitch: 0.92, Yaw: -40.85
+angle = 241
+angle = 51
+Roll: 6.86, Pitch: 1.11, Yaw: -40.73
+angle = 266
+angle = 61
+Roll: 7.52, Pitch: 1.25, Yaw: -40.55
+angle = 292
+angle = 69
+Roll: 8.19, Pitch: 1.33, Yaw: -40.37
+angle = 318
+angle = 73
+Roll: 8.85, Pitch: 1.37, Yaw: -40.22
+angle = 344
+angle = 75
+Roll: 9.53, Pitch: 1.36, Yaw: -40.10
+angle = 370
+angle = 75
+Roll: 10.23, Pitch: 1.35, Yaw: -40.02
+angle = 397
+angle = 74
+Roll: 10.95, Pitch: 1.28, Yaw: -39.95
+angle = 425
+angle = 71
+Roll: 11.66, Pitch: 1.16, Yaw: -39.92
+angle = 453
+angle = 64
+Roll: 12.33, Pitch: 0.99, Yaw: -39.89
+angle = 479
+angle = 55
+Roll: 12.97, Pitch: 0.96, Yaw: -39.85
+angle = 504
+angle = 53
+Roll: 12.97, Pitch: 0.96, Yaw: -39.75
+angle = 504
+angle = 53
+Roll: 12.97, Pitch: 0.96, Yaw: -39.75
+angle = 504
+angle = 53
+Roll: 15.07, Pitch: 0.94, Yaw: -39.75
+angle = 586
+angle = 52
+Roll: 15.76, Pitch: 0.94, Yaw: -39.56
+angle = 612
+angle = 52
+Roll: 16.45, Pitch: 0.92, Yaw: -39.47
+angle = 639
+angle = 51
+Roll: 17.15, Pitch: 0.89, Yaw: -39.36
+angle = 666
+angle = 49
+Roll: 17.85, Pitch: 0.84, Yaw: -39.25
+angle = 694
+angle = 46
+Roll: 18.56, Pitch: 0.79, Yaw: -39.14
+angle = 721
+angle = 43
+Roll: 19.30, Pitch: 0.81, Yaw: -39.05
+angle = 750
+angle = 44
+Roll: 20.10, Pitch: 0.91, Yaw: -38.91
+angle = 781
+angle = 50
+Roll: 20.93, Pitch: 1.09, Yaw: -38.71
+angle = 814
+angle = 60
+Roll: 21.78, Pitch: 1.31, Yaw: -38.45
+angle = 846
+angle = 72
+Roll: 22.61, Pitch: 1.52, Yaw: -38.13
+angle = 879
+angle = 84
+Roll: 23.40, Pitch: 1.61, Yaw: -37.81
+angle = 910
+angle = 89
+Roll: 24.08, Pitch: 1.67, Yaw: -37.58
+angle = 936
+angle = 93
+Roll: 24.74, Pitch: 1.75, Yaw: -37.36
+angle = 962
+angle = 97
+Roll: 25.37, Pitch: 1.82, Yaw: -37.11
+angle = 986
+angle = 100
+Roll: 25.97, Pitch: 1.89, Yaw: -36.84
+angle = 1009
+angle = 104
+Roll: 26.54, Pitch: 1.94, Yaw: -36.57
+angle = 1032
+angle = 107
+Roll: 27.07, Pitch: 1.98, Yaw: -36.29
+angle = 1052
+angle = 109
+Roll: 27.54, Pitch: 2.00, Yaw: -36.04
+angle = 1071
+angle = 111
+Roll: 27.96, Pitch: 2.02, Yaw: -35.80
+angle = 1087
+angle = 112
+Roll: 28.32, Pitch: 2.02, Yaw: -35.60
+angle = 1101
+angle = 112
+Roll: 28.61, Pitch: 2.02, Yaw: -35.42
+angle = 1112
+angle = 112
+Roll: 28.82, Pitch: 1.98, Yaw: -35.28
+angle = 1120
+angle = 110
+Roll: 28.96, Pitch: 1.92, Yaw: -35.20
+angle = 1126
+angle = 106
+Roll: 29.02, Pitch: 1.86, Yaw: -35.17
+angle = 1128
+angle = 103
+Roll: 29.02, Pitch: 1.83, Yaw: -35.17
+angle = 1128
+angle = 101
+Roll: 28.95, Pitch: 1.81, Yaw: -35.17
+angle = 1125
+angle = 100
+Roll: 28.82, Pitch: 1.79, Yaw: -35.22
+angle = 1120
+angle = 99
+Roll: 28.61, Pitch: 1.76, Yaw: -35.31
+angle = 1112
+angle = 97
+Roll: 28.36, Pitch: 1.74, Yaw: -35.43
+angle = 1103
+angle = 96
+Roll: 28.06, Pitch: 1.72, Yaw: -35.56
+angle = 1091
+angle = 95
+Roll: 27.69, Pitch: 1.68, Yaw: -35.72
+angle = 1076
+angle = 93
+Roll: 27.24, Pitch: 1.62, Yaw: -35.91
+angle = 1059
+angle = 90
+Roll: 26.70, Pitch: 1.54, Yaw: -36.12
+angle = 1038
+angle = 85
+Roll: 26.09, Pitch: 1.43, Yaw: -36.36
+angle = 1014
+angle = 79
+Roll: 25.41, Pitch: 1.31, Yaw: -36.63
+angle = 988
+angle = 72
+Roll: 24.67, Pitch: 1.18, Yaw: -36.89
+angle = 959
+angle = 65
+Roll: 23.92, Pitch: 1.04, Yaw: -37.14
+angle = 930
+angle = 57
+Roll: 23.14, Pitch: 0.91, Yaw: -37.37
+angle = 899
+angle = 50
+Roll: 22.36, Pitch: 0.76, Yaw: -37.58
+angle = 869
+angle = 42
+Roll: 21.58, Pitch: 0.59, Yaw: -37.78
+angle = 839
+angle = 32
+Roll: 20.78, Pitch: 0.40, Yaw: -37.97
+angle = 808
+angle = 22
+Roll: 19.94, Pitch: 0.22, Yaw: -38.16
+angle = 775
+angle = 12
+Roll: 19.94, Pitch: 0.22, Yaw: -38.33
+angle = 775
+angle = 12
+Roll: 18.07, Pitch: 0.14, Yaw: -38.33
+angle = 702
+angle = 7
+Roll: 17.16, Pitch: 0.17, Yaw: -38.54
+angle = 667
+angle = 9
+Roll: 17.16, Pitch: 0.17, Yaw: -38.64
+angle = 667
+angle = 9
+Roll: 15.43, Pitch: 0.21, Yaw: -38.64
+angle = 599
+angle = 11
+Roll: 14.59, Pitch: 0.23, Yaw: -38.84
+angle = 567
+angle = 12
+Roll: 13.70, Pitch: 0.26, Yaw: -38.93
+angle = 532
+angle = 14
+Roll: 12.72, Pitch: 0.29, Yaw: -39.04
+angle = 494
+angle = 15
+Roll: 11.68, Pitch: 0.32, Yaw: -39.21
+angle = 454
+angle = 17
+Roll: 10.57, Pitch: 0.36, Yaw: -39.36
+angle = 411
+angle = 20
+Roll: 9.44, Pitch: 0.40, Yaw: -39.51
+angle = 367
+angle = 22
+Roll: 8.28, Pitch: 0.47, Yaw: -39.68
+angle = 322
+angle = 26
+Roll: 7.41, Pitch: 0.59, Yaw: -39.82
+angle = 288
+angle = 32
+Roll: 6.87, Pitch: 0.65, Yaw: -39.87
+angle = 267
+angle = 35
+Roll: 6.25, Pitch: 0.79, Yaw: -39.97
+angle = 242
+angle = 43
+Roll: 5.65, Pitch: 1.00, Yaw: -40.05
+angle = 219
+angle = 55
+Roll: 5.13, Pitch: 1.23, Yaw: -40.09
+angle = 199
+angle = 68
+Roll: 4.64, Pitch: 1.46, Yaw: -40.12
+angle = 180
+angle = 81
+Roll: 4.16, Pitch: 1.70, Yaw: -40.14
+angle = 161
+angle = 94
+Roll: 3.68, Pitch: 1.93, Yaw: -40.15
+angle = 143
+angle = 107
+Roll: 3.18, Pitch: 2.15, Yaw: -40.17
+angle = 123
+angle = 119
+Roll: 2.70, Pitch: 2.34, Yaw: -40.20
+angle = 105
+angle = 129
+Roll: 2.70, Pitch: 2.34, Yaw: -40.24
+angle = 105
+angle = 129
+Roll: 1.76, Pitch: 2.66, Yaw: -40.28
+angle = 68
+angle = 147
+Roll: 1.32, Pitch: 2.82, Yaw: -40.33
+angle = 51
+angle = 156
+Roll: 0.91, Pitch: 2.96, Yaw: -40.37
+angle = 35
+angle = 164
+Roll: 0.64, Pitch: 3.03, Yaw: -40.43
+angle = 25
+angle = 168
+Roll: 0.62, Pitch: 2.98, Yaw: -40.48
+angle = 24
+angle = 165
+Roll: 0.60, Pitch: 2.94, Yaw: -40.48
+angle = 23
+angle = 163
+Roll: 0.54, Pitch: 2.90, Yaw: -40.52
+angle = 20
+angle = 161
+Roll: 0.44, Pitch: 2.88, Yaw: -40.55
+angle = 16
+angle = 160
+Roll: 0.36, Pitch: 2.86, Yaw: -40.58
+angle = 14
+angle = 158
+Roll: 0.33, Pitch: 2.83, Yaw: -40.60
+angle = 12
+angle = 157
+Roll: 0.32, Pitch: 2.80, Yaw: -40.60
+angle = 12
+angle = 155
+Roll: 0.32, Pitch: 2.78, Yaw: -40.59
+angle = 12
+angle = 154
+Roll: 0.32, Pitch: 2.76, Yaw: -40.57
+angle = 12
+angle = 153
+Roll: 0.33, Pitch: 2.74, Yaw: -40.55
+angle = 12
+angle = 152
+Roll: 0.32, Pitch: 2.73, Yaw: -40.54
+angle = 12
+angle = 151
+Roll: 0.32, Pitch: 2.71, Yaw: -40.52
+angle = 12
+angle = 150
+Roll: 0.31, Pitch: 2.69, Yaw: -40.51
+angle = 12
+angle = 149
+Roll: 0.30, Pitch: 2.67, Yaw: -40.50
+angle = 11
+angle = 148
+Roll: 0.28, Pitch: 2.66, Yaw: -40.49
+angle = 10
+angle = 147
+Roll: 0.24, Pitch: 2.66, Yaw: -40.48
+angle = 9
+angle = 147
+Roll: 0.21, Pitch: 2.66, Yaw: -40.47
+angle = 8
+angle = 147
+Roll: 0.19, Pitch: 2.65, Yaw: -40.46
+angle = 7
+angle = 147
+Roll: 0.17, Pitch: 2.65, Yaw: -40.46
+angle = 6
+angle = 146
+Roll: 0.17, Pitch: 2.64, Yaw: -40.47
+angle = 6
+angle = 146
+Roll: 0.17, Pitch: 2.64, Yaw: -40.49
+angle = 6
+angle = 146
+Roll: 0.20, Pitch: 2.61, Yaw: -40.49
+angle = 7
+angle = 144
+Roll: 0.22, Pitch: 2.59, Yaw: -40.50
+angle = 8
+angle = 143
+Roll: 0.23, Pitch: 2.56, Yaw: -40.50
+angle = 9
+angle = 142
+Roll: 0.26, Pitch: 2.53, Yaw: -40.49
+angle = 10
+angle = 140
+Roll: 0.31, Pitch: 2.47, Yaw: -40.49
+angle = 11
+angle = 137
+Roll: 0.39, Pitch: 2.41, Yaw: -40.47
+angle = 15
+angle = 133
+Roll: 0.61, Pitch: 2.37, Yaw: -40.45
+angle = 23
+angle = 131
+Roll: 0.63, Pitch: 2.40, Yaw: -40.33
+angle = 24
+angle = 133
+Roll: 0.65, Pitch: 2.44, Yaw: -40.25
+angle = 25
+angle = 135
+Roll: 0.84, Pitch: 2.43, Yaw: -40.16
+angle = 32
+angle = 135
+Roll: 1.14, Pitch: 2.39, Yaw: -40.12
+angle = 44
+angle = 132
+Roll: 1.56, Pitch: 2.29, Yaw: -40.07
+angle = 60
+angle = 127
+Roll: 2.01, Pitch: 2.16, Yaw: -40.04
+angle = 78
+angle = 120
+Roll: 2.50, Pitch: 2.02, Yaw: -40.02
+angle = 97
+angle = 112
+Roll: 3.03, Pitch: 1.91, Yaw: -40.00
+angle = 117
+angle = 106
+Roll: 3.60, Pitch: 1.82, Yaw: -39.95
+angle = 139
+angle = 101
+Roll: 4.20, Pitch: 1.79, Yaw: -39.87
+angle = 163
+angle = 99
+Roll: 4.85, Pitch: 1.85, Yaw: -39.77
+angle = 188
+angle = 102
+Roll: 5.57, Pitch: 2.05, Yaw: -39.66
+angle = 216
+angle = 114
+Roll: 6.39, Pitch: 2.35, Yaw: -39.53
+angle = 248
+angle = 130
+Roll: 7.28, Pitch: 2.72, Yaw: -39.37
+angle = 282
+angle = 150
+Roll: 8.24, Pitch: 3.13, Yaw: -39.17
+angle = 320
+angle = 174
+Roll: 9.30, Pitch: 3.60, Yaw: -38.90
+angle = 361
+angle = 200
+Roll: 10.43, Pitch: 4.13, Yaw: -38.56
+angle = 405
+angle = 229
+Roll: 11.64, Pitch: 4.63, Yaw: -38.16
+angle = 452
+angle = 257
+Roll: 12.88, Pitch: 5.09, Yaw: -37.70
+angle = 500
+angle = 282
+Roll: 14.11, Pitch: 5.47, Yaw: -37.22
+angle = 548
+angle = 303
+Roll: 15.33, Pitch: 5.79, Yaw: -36.75
+angle = 596
+angle = 321
+Roll: 16.49, Pitch: 6.03, Yaw: -36.27
+angle = 641
+angle = 335
+Roll: 17.61, Pitch: 6.17, Yaw: -35.86
+angle = 684
+angle = 342
+Roll: 18.68, Pitch: 6.22, Yaw: -35.49
+angle = 726
+angle = 345
+Roll: 19.71, Pitch: 6.18, Yaw: -35.17
+angle = 766
+angle = 343
+Roll: 20.69, Pitch: 6.07, Yaw: -34.91
+angle = 804
+angle = 337
+Roll: 21.65, Pitch: 5.98, Yaw: -34.68
+angle = 841
+angle = 332
+Roll: 22.58, Pitch: 5.90, Yaw: -34.41
+angle = 878
+angle = 327
+Roll: 23.45, Pitch: 5.81, Yaw: -34.10
+angle = 912
+angle = 322
+Roll: 24.29, Pitch: 5.70, Yaw: -33.81
+angle = 944
+angle = 316
+Roll: 25.09, Pitch: 5.56, Yaw: -33.51
+angle = 975
+angle = 309
+Roll: 25.82, Pitch: 5.41, Yaw: -33.25
+angle = 1004
+angle = 300
+Roll: 26.51, Pitch: 5.22, Yaw: -33.04
+angle = 1030
+angle = 290
+Roll: 27.14, Pitch: 5.02, Yaw: -32.88
+angle = 1055
+angle = 278
+Roll: 27.72, Pitch: 4.79, Yaw: -32.78
+angle = 1078
+angle = 266
+Roll: 28.27, Pitch: 4.56, Yaw: -32.75
+angle = 1099
+angle = 253
+Roll: 28.79, Pitch: 4.34, Yaw: -32.75
+angle = 1119
+angle = 240
+Roll: 29.31, Pitch: 4.14, Yaw: -32.76
+angle = 1139
+angle = 230
+Roll: 29.82, Pitch: 3.99, Yaw: -32.73
+angle = 1159
+angle = 221
+Roll: 30.30, Pitch: 3.85, Yaw: -32.66
+angle = 1178
+angle = 213
+Roll: 30.74, Pitch: 3.71, Yaw: -32.56
+angle = 1195
+angle = 206
+Roll: 31.13, Pitch: 3.57, Yaw: -32.48
+angle = 1210
+angle = 198
+Roll: 31.47, Pitch: 3.42, Yaw: -32.44
+angle = 1223
+angle = 189
+Roll: 31.75, Pitch: 3.26, Yaw: -32.45
+angle = 1234
+angle = 181
+Roll: 31.99, Pitch: 3.12, Yaw: -32.51
+angle = 1244
+angle = 173
+Roll: 32.19, Pitch: 2.98, Yaw: -32.58
+angle = 1251
+angle = 165
+Roll: 32.35, Pitch: 2.85, Yaw: -32.67
+angle = 1257
+angle = 158
+Roll: 32.46, Pitch: 2.73, Yaw: -32.78
+angle = 1262
+angle = 151
+Roll: 32.54, Pitch: 2.61, Yaw: -32.89
+angle = 1265
+angle = 145
+Roll: 32.57, Pitch: 2.51, Yaw: -33.00
+angle = 1266
+angle = 139
+Roll: 32.54, Pitch: 2.42, Yaw: -33.13
+angle = 1265
+angle = 134
+Roll: 32.44, Pitch: 2.33, Yaw: -33.27
+angle = 1261
+angle = 129
+Roll: 32.27, Pitch: 2.25, Yaw: -33.43
+angle = 1255
+angle = 125
+Roll: 32.05, Pitch: 2.19, Yaw: -33.59
+angle = 1246
+angle = 121
+Roll: 31.76, Pitch: 2.13, Yaw: -33.75
+angle = 1235
+angle = 118
+Roll: 31.40, Pitch: 2.03, Yaw: -33.93
+angle = 1220
+angle = 113
+Roll: 31.40, Pitch: 2.03, Yaw: -34.14
+angle = 1220
+angle = 113
+Roll: 30.42, Pitch: 1.90, Yaw: -34.14
+angle = 1182
+angle = 105
+Roll: 29.87, Pitch: 1.83, Yaw: -34.55
+angle = 1161
+angle = 101
+Roll: 29.26, Pitch: 1.76, Yaw: -34.81
+angle = 1137
+angle = 97
+Roll: 28.59, Pitch: 1.67, Yaw: -35.09
+angle = 1111
+angle = 92
+Roll: 27.88, Pitch: 1.56, Yaw: -35.35
+angle = 1084
+angle = 86
+Roll: 27.14, Pitch: 1.46, Yaw: -35.59
+angle = 1055
+angle = 81
+Roll: 26.37, Pitch: 1.35, Yaw: -35.82
+angle = 1025
+angle = 75
+Roll: 25.59, Pitch: 1.22, Yaw: -36.04
+angle = 994
+angle = 67
+Roll: 24.76, Pitch: 1.05, Yaw: -36.27
+angle = 962
+angle = 58
+Roll: 23.91, Pitch: 0.87, Yaw: -36.51
+angle = 929
+angle = 48
+Roll: 23.91, Pitch: 0.87, Yaw: -36.72
+angle = 929
+angle = 48
+Roll: 22.19, Pitch: 0.56, Yaw: -36.90
+angle = 862
+angle = 30
+Roll: 21.32, Pitch: 0.46, Yaw: -37.04
+angle = 829
+angle = 25
+Roll: 20.47, Pitch: 0.42, Yaw: -37.14
+angle = 795
+angle = 23
+Roll: 19.60, Pitch: 0.40, Yaw: -37.23
+angle = 762
+angle = 22
+Roll: 18.72, Pitch: 0.40, Yaw: -37.31
+angle = 727
+angle = 22
+Roll: 17.79, Pitch: 0.39, Yaw: -37.42
+angle = 691
+angle = 21
+Roll: 17.79, Pitch: 0.39, Yaw: -37.58
+angle = 691
+angle = 21
+Roll: 15.70, Pitch: 0.29, Yaw: -37.58
+angle = 610
+angle = 16
+Roll: 14.54, Pitch: 0.26, Yaw: -38.19
+angle = 565
+angle = 14
+Roll: 13.32, Pitch: 0.27, Yaw: -38.50
+angle = 517
+angle = 15
+Roll: 12.07, Pitch: 0.30, Yaw: -38.76
+angle = 469
+angle = 16
+Roll: 10.77, Pitch: 0.33, Yaw: -38.98
+angle = 418
+angle = 18
+Roll: 9.41, Pitch: 0.36, Yaw: -39.19
+angle = 365
+angle = 19
+Roll: 7.93, Pitch: 0.39, Yaw: -39.43
+angle = 308
+angle = 21
+Roll: 6.31, Pitch: 0.44, Yaw: -39.70
+angle = 245
+angle = 24
+Roll: 4.51, Pitch: 0.53, Yaw: -39.95
+angle = 175
+angle = 29
+Roll: 3.61, Pitch: 0.64, Yaw: -40.18
+angle = 140
+angle = 35
+Roll: 3.04, Pitch: 0.79, Yaw: -40.24
+angle = 118
+angle = 44
+Roll: 2.51, Pitch: 1.01, Yaw: -40.35
+angle = 97
+angle = 56
+Roll: 2.06, Pitch: 1.23, Yaw: -40.44
+angle = 80
+angle = 68
+Roll: 1.71, Pitch: 1.41, Yaw: -40.50
+angle = 66
+angle = 78
+Roll: 1.47, Pitch: 1.54, Yaw: -40.55
+angle = 57
+angle = 85
+Roll: 1.33, Pitch: 1.63, Yaw: -40.57
+angle = 51
+angle = 90
+Roll: 1.24, Pitch: 1.69, Yaw: -40.56
+angle = 48
+angle = 94
+Roll: 1.16, Pitch: 1.76, Yaw: -40.53
+angle = 45
+angle = 97
+Roll: 1.07, Pitch: 1.83, Yaw: -40.50
+angle = 41
+angle = 101
+Roll: 0.96, Pitch: 1.91, Yaw: -40.45
+angle = 37
+angle = 105
+Roll: 0.83, Pitch: 2.00, Yaw: -40.41
+angle = 32
+angle = 110
+Roll: 0.69, Pitch: 2.09, Yaw: -40.37
+angle = 26
+angle = 116
+Roll: 0.66, Pitch: 2.12, Yaw: -40.33
+angle = 25
+angle = 117
+Roll: 0.65, Pitch: 2.14, Yaw: -40.31
+angle = 25
+angle = 118
+Roll: 0.64, Pitch: 2.16, Yaw: -40.28
+angle = 24
+angle = 119
+Roll: 0.64, Pitch: 2.17, Yaw: -40.22
+angle = 24
+angle = 120
+Roll: 0.63, Pitch: 2.15, Yaw: -40.09
+angle = 24
+angle = 119
+Roll: 0.63, Pitch: 2.13, Yaw: -39.84
+angle = 24
+angle = 118
+Roll: 0.63, Pitch: 2.12, Yaw: -39.67
+angle = 24
+angle = 117
+Roll: 0.63, Pitch: 2.09, Yaw: -39.59
+angle = 24
+angle = 116
+Roll: 0.64, Pitch: 2.02, Yaw: -39.45
+angle = 24
+angle = 112
+Roll: 0.64, Pitch: 1.96, Yaw: -39.22
+angle = 24
+angle = 109
+Roll: 0.64, Pitch: 1.82, Yaw: -39.07
+angle = 24
+angle = 101
+Roll: 0.63, Pitch: 1.54, Yaw: -38.81
+angle = 24
+angle = 85
+Roll: 0.61, Pitch: 1.13, Yaw: -38.40
+angle = 23
+angle = 62
+Roll: -0.23, Pitch: 0.50, Yaw: -38.04
+angle = -8
+angle = 27
+Roll: -0.62, Pitch: 0.26, Yaw: -37.23
+angle = -24
+angle = 14
+Roll: -0.78, Pitch: 0.21, Yaw: -36.39
+angle = -30
+angle = 11
+Roll: -0.81, Pitch: 0.20, Yaw: -36.16
+angle = -31
+angle = 10
+Roll: -0.81, Pitch: 0.19, Yaw: -36.12
+angle = -31
+angle = 10
+Roll: -0.81, Pitch: 0.19, Yaw: -36.06
+angle = -31
+angle = 10
+Roll: -0.83, Pitch: 0.19, Yaw: -35.90
+angle = -32
+angle = 10
+Roll: -0.83, Pitch: 0.19, Yaw: -35.73
+angle = -32
+angle = 10
+Roll: -0.83, Pitch: 0.19, Yaw: -35.47
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.20, Yaw: -35.11
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.20, Yaw: -34.76
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.20, Yaw: -34.57
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.57
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.57
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.83, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.19, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.84, Pitch: 0.18, Yaw: -34.58
+angle = -32
+angle = 10
+Roll: -0.83, Pitch: 0.19, Yaw: -34.62
+angle = -32
+angle = 10
+Roll: -0.82, Pitch: 0.18, Yaw: -35.01
+angle = -31
+angle = 10
+Roll: -0.82, Pitch: 0.18, Yaw: -35.72
+angle = -31
+angle = 10
+Roll: -0.82, Pitch: 0.18, Yaw: -36.38
+angle = -31
+angle = 9
+Roll: -0.82, Pitch: 0.17, Yaw: -36.84
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -37.14
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -37.35
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -37.55
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -37.55
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -37.73
+angle = -31
+angle = 9
+Roll: -0.80, Pitch: 0.17, Yaw: -37.73
+angle = -31
+angle = 9
+Roll: -0.77, Pitch: 0.18, Yaw: -37.73
+angle = -29
+angle = 9
+Roll: -0.76, Pitch: 0.17, Yaw: -37.83
+angle = -29
+angle = 9
+Roll: -0.75, Pitch: 0.17, Yaw: -38.04
+angle = -29
+angle = 9
+Roll: -0.76, Pitch: 0.17, Yaw: -38.11
+angle = -29
+angle = 9
+Roll: -0.79, Pitch: 0.17, Yaw: -38.11
+angle = -30
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -38.11
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -38.11
+angle = -31
+angle = 9
+Roll: -0.80, Pitch: 0.16, Yaw: -38.24
+angle = -31
+angle = 9
+Roll: -0.80, Pitch: 0.16, Yaw: -38.70
+angle = -31
+angle = 8
+Roll: -0.80, Pitch: 0.15, Yaw: -39.18
+angle = -31
+angle = 8
+Roll: -0.80, Pitch: 0.15, Yaw: -39.55
+angle = -31
+angle = 8
+Roll: -0.80, Pitch: 0.15, Yaw: -39.82
+angle = -31
+angle = 8
+Roll: -0.80, Pitch: 0.15, Yaw: -39.97
+angle = -31
+angle = 8
+Roll: -0.81, Pitch: 0.15, Yaw: -40.01
+angle = -31
+angle = 8
+Roll: -0.81, Pitch: 0.16, Yaw: -39.99
+angle = -31
+angle = 8
+Roll: -0.81, Pitch: 0.16, Yaw: -39.96
+angle = -31
+angle = 8
+Roll: -0.81, Pitch: 0.17, Yaw: -39.90
+angle = -31
+angle = 9
+Roll: -0.81, Pitch: 0.17, Yaw: -39.73
+angle = -31
+angle = 9
+Roll: -0.82, Pitch: 0.18, Yaw: -39.44
+angle = -31
+angle = 9
+Roll: -0.82, Pitch: 0.18, Yaw: -39.12
+angle = -31
+angle = 9
+Roll: -0.83, Pitch: 0.18, Yaw: -38.85
+angle = -32
+angle = 9
+Roll: -0.84, Pitch: 0.19, Yaw: -38.66
+angle = -32
+angle = 10
+Roll: -0.87, Pitch: 0.21, Yaw: -38.48
+angle = -33
+angle = 11
+Roll: -0.92, Pitch: 0.25, Yaw: -38.27
+angle = -35
+angle = 13
+Roll: -1.01, Pitch: 0.32, Yaw: -38.00
+angle = -39
+angle = 17
+Roll: -1.03, Pitch: 0.33, Yaw: -37.71
+angle = -40
+angle = 18
+Roll: -0.84, Pitch: 0.15, Yaw: -37.42
+angle = -32
+angle = 8
+Roll: -0.87, Pitch: 0.12, Yaw: -37.14
+angle = -33
+angle = 6
+Roll: -1.02, Pitch: 0.33, Yaw: -36.93
+angle = -39
+angle = 18
+Roll: -1.02, Pitch: 0.33, Yaw: -36.62
+angle = -39
+angle = 18
+Roll: -1.55, Pitch: 0.75, Yaw: -36.62
+angle = -60
+angle = 41
+Roll: -1.92, Pitch: 1.10, Yaw: -36.02
+angle = -74
+angle = 60
+Roll: -2.39, Pitch: 1.45, Yaw: -35.68
+angle = -93
+angle = 80
+Roll: -3.00, Pitch: 1.72, Yaw: -35.42
+angle = -116
+angle = 95
+Roll: -3.73, Pitch: 1.92, Yaw: -35.26
+angle = -145
+angle = 106
+Roll: -4.58, Pitch: 2.09, Yaw: -35.17
+angle = -177
+angle = 116
+Roll: -5.46, Pitch: 2.29, Yaw: -35.10
+angle = -212
+angle = 127
+Roll: -6.40, Pitch: 2.49, Yaw: -35.03
+angle = -248
+angle = 138
+Roll: -7.36, Pitch: 2.65, Yaw: -34.96
+angle = -286
+angle = 147
+Roll: -8.35, Pitch: 2.73, Yaw: -34.92
+angle = -324
+angle = 151
+Roll: -9.39, Pitch: 2.71, Yaw: -34.94
+angle = -365
+angle = 150
+Roll: -10.50, Pitch: 2.58, Yaw: -35.06
+angle = -408
+angle = 143
+Roll: -11.69, Pitch: 2.35, Yaw: -35.26
+angle = -454
+angle = 130
+Roll: -12.94, Pitch: 1.93, Yaw: -35.52
+angle = -503
+angle = 107
+Roll: -14.24, Pitch: 1.35, Yaw: -35.86
+angle = -553
+angle = 75
+Roll: -15.44, Pitch: 0.82, Yaw: -36.17
+angle = -600
+angle = 45
+Roll: -16.74, Pitch: 0.34, Yaw: -36.38
+angle = -650
+angle = 18
+Roll: -18.04, Pitch: -0.01, Yaw: -36.45
+angle = -701
+angle = 0
+Roll: -19.39, Pitch: -0.04, Yaw: -36.45
+angle = -753
+angle = -2
+Roll: -20.77, Pitch: -0.05, Yaw: -36.35
+angle = -807
+angle = -2
+Roll: -22.04, Pitch: -0.05, Yaw: -36.27
+angle = -856
+angle = -3
+Roll: -23.14, Pitch: -0.05, Yaw: -36.18
+angle = -899
+angle = -2
+Roll: -24.27, Pitch: -0.05, Yaw: -36.12
+angle = -943
+angle = -2
+Roll: -25.29, Pitch: -0.05, Yaw: -36.08
+angle = -983
+angle = -2
+Roll: -26.19, Pitch: -0.05, Yaw: -36.05
+angle = -1018
+angle = -2
+Roll: -27.01, Pitch: -0.05, Yaw: -36.02
+angle = -1050
+angle = -2
+Roll: -27.75, Pitch: -0.05, Yaw: -36.01
+angle = -1079
+angle = -2
+Roll: -28.40, Pitch: -0.05, Yaw: -36.00
+angle = -1104
+angle = -2
+Roll: -28.98, Pitch: -0.06, Yaw: -36.01
+angle = -1126
+angle = -3
+Roll: -29.49, Pitch: -0.06, Yaw: -36.03
+angle = -1146
+angle = -3
+Roll: -29.94, Pitch: -0.06, Yaw: -36.10
+angle = -1164
+angle = -3
+Roll: -30.34, Pitch: -0.06, Yaw: -36.25
+angle = -1180
+angle = -3
+Roll: -30.69, Pitch: -0.06, Yaw: -36.43
+angle = -1193
+angle = -3
+Roll: -30.99, Pitch: -0.06, Yaw: -36.62
+angle = -1205
+angle = -3
+Roll: -30.99, Pitch: -0.06, Yaw: -36.80
+angle = -1205
+angle = -3
+Roll: -31.50, Pitch: -0.07, Yaw: -36.80
+angle = -1224
+angle = -3
+Roll: -31.75, Pitch: -0.07, Yaw: -37.14
+angle = -1234
+angle = -3
+Roll: -31.97, Pitch: -0.07, Yaw: -37.31
+angle = -1243
+angle = -4
+Roll: -32.14, Pitch: -0.07, Yaw: -37.45
+angle = -1249
+angle = -4
+Roll: -32.23, Pitch: -0.07, Yaw: -37.59
+angle = -1253
+angle = -3
+Roll: -32.23, Pitch: -0.07, Yaw: -37.71
+angle = -1253
+angle = -3
+Roll: -32.14, Pitch: -0.07, Yaw: -37.81
+angle = -1249
+angle = -4
+Roll: -32.01, Pitch: -0.07, Yaw: -37.91
+angle = -1245
+angle = -4
+Roll: -31.87, Pitch: -0.07, Yaw: -37.99
+angle = -1239
+angle = -4
+Roll: -31.64, Pitch: -0.07, Yaw: -38.06
+angle = -1230
+angle = -4
+Roll: -31.64, Pitch: -0.07, Yaw: -38.10
+angle = -1230
+angle = -4
+Roll: -31.03, Pitch: -0.07, Yaw: -38.10
+angle = -1206
+angle = -3
+Roll: -30.65, Pitch: -0.07, Yaw: -38.14
+angle = -1191
+angle = -3
+Roll: -30.23, Pitch: -0.06, Yaw: -38.14
+angle = -1175
+angle = -3
+Roll: -29.75, Pitch: -0.06, Yaw: -38.13
+angle = -1157
+angle = -3
+Roll: -29.20, Pitch: -0.06, Yaw: -38.13
+angle = -1135
+angle = -3
+Roll: -28.55, Pitch: -0.06, Yaw: -38.10
+angle = -1110
+angle = -3
+Roll: -27.79, Pitch: -0.06, Yaw: -38.05
+angle = -1080
+angle = -3
+Roll: -26.94, Pitch: -0.05, Yaw: -37.99
+angle = -1047
+angle = -2
+Roll: -26.01, Pitch: -0.05, Yaw: -37.92
+angle = -1011
+angle = -2
+Roll: -24.99, Pitch: -0.04, Yaw: -37.87
+angle = -971
+angle = -2
+Roll: -23.87, Pitch: -0.04, Yaw: -37.84
+angle = -928
+angle = -2
+Roll: -22.63, Pitch: -0.03, Yaw: -37.81
+angle = -879
+angle = -1
+Roll: -21.25, Pitch: -0.02, Yaw: -37.78
+angle = -826
+angle = -1
+Roll: -19.73, Pitch: 0.05, Yaw: -37.75
+angle = -767
+angle = 2
+Roll: -18.12, Pitch: 0.20, Yaw: -37.68
+angle = -704
+angle = 10
+Roll: -16.45, Pitch: 0.39, Yaw: -37.55
+angle = -639
+angle = 21
+Roll: -14.78, Pitch: 0.61, Yaw: -37.35
+angle = -574
+angle = 33
+Roll: -13.15, Pitch: 0.80, Yaw: -37.10
+angle = -511
+angle = 44
+Roll: -11.65, Pitch: 0.93, Yaw: -36.84
+angle = -452
+angle = 51
+Roll: -10.30, Pitch: 0.87, Yaw: -36.59
+angle = -400
+angle = 48
+Roll: -8.95, Pitch: 0.79, Yaw: -36.39
+angle = -348
+angle = 43
+Roll: -7.71, Pitch: 0.69, Yaw: -36.26
+angle = -299
+angle = 38
+Roll: -6.58, Pitch: 0.60, Yaw: -36.21
+angle = -256
+angle = 33
+Roll: -5.57, Pitch: 0.53, Yaw: -36.19
+angle = -216
+angle = 29
+Roll: -4.67, Pitch: 0.47, Yaw: -36.15
+angle = -181
+angle = 25
+Roll: -3.86, Pitch: 0.45, Yaw: -36.09
+angle = -150
+angle = 25
+Roll: -3.16, Pitch: 0.44, Yaw: -36.00
+angle = -122
+angle = 24
+Roll: -2.51, Pitch: 0.43, Yaw: -35.92
+angle = -97
+angle = 24
+Roll: -1.90, Pitch: 0.43, Yaw: -35.84
+angle = -73
+angle = 23
+Roll: -1.31, Pitch: 0.43, Yaw: -35.71
+angle = -50
+angle = 23
+Roll: -0.93, Pitch: 0.29, Yaw: -35.52
+angle = -36
+angle = 16
+Roll: -0.83, Pitch: 0.22, Yaw: -35.40
+angle = -32
+angle = 12
+Roll: -0.84, Pitch: 0.22, Yaw: -35.40
+angle = -32
+angle = 12
+Roll: -0.85, Pitch: 0.23, Yaw: -35.40
+angle = -33
+angle = 12
+Roll: -0.85, Pitch: 0.23, Yaw: -35.39
+angle = -33
+angle = 12
+Roll: -0.85, Pitch: 0.23, Yaw: -35.32
+angle = -33
+angle = 12
+Roll: -0.85, Pitch: 0.23, Yaw: -35.25
+angle = -33
+angle = 12
+Roll: -0.85, Pitch: 0.23, Yaw: -35.22
+angle = -33
+angle = 12
+Roll: -0.85, Pitch: 0.23, Yaw: -35.24
+angle = -33
+angle = 12
+Roll: -0.87, Pitch: 0.25, Yaw: -35.27
+angle = -33
+angle = 13
+Roll: -0.96, Pitch: 0.32, Yaw: -35.29
+angle = -37
+angle = 17
+Roll: -1.11, Pitch: 0.44, Yaw: -35.29
+angle = -43
+angle = 24
+Roll: -1.14, Pitch: 0.45, Yaw: -35.28
+angle = -44
+angle = 25
+Roll: -1.14, Pitch: 0.45, Yaw: -35.30
+angle = -44
+angle = 25
+Roll: -1.34, Pitch: 0.46, Yaw: -35.39
+angle = -52
+angle = 25
+Roll: -1.34, Pitch: 0.46, Yaw: -35.51
+angle = -52
+angle = 25
+Roll: -1.34, Pitch: 0.46, Yaw: -35.51
+angle = -52
+angle = 25
+Roll: -2.55, Pitch: 0.59, Yaw: -35.51
+angle = -99
+angle = 32
+Roll: -3.26, Pitch: 0.70, Yaw: -35.75
+angle = -126
+angle = 39
+Roll: -4.18, Pitch: 0.76, Yaw: -35.76
+angle = -162
+angle = 42
+Roll: -5.28, Pitch: 0.75, Yaw: -35.82
+angle = -205
+angle = 41
+Roll: -6.56, Pitch: 0.70, Yaw: -35.92
+angle = -254
+angle = 39
+Roll: -7.97, Pitch: 0.71, Yaw: -36.04
+angle = -309
+angle = 39
+Roll: -9.48, Pitch: 0.76, Yaw: -36.19
+angle = -368
+angle = 41
+Roll: -11.09, Pitch: 0.74, Yaw: -36.35
+angle = -431
+angle = 41
+Roll: -12.76, Pitch: 0.68, Yaw: -36.53
+angle = -496
+angle = 37
+Roll: -14.40, Pitch: 0.60, Yaw: -36.72
+angle = -559
+angle = 33
+Roll: -15.91, Pitch: 0.47, Yaw: -36.89
+angle = -618
+angle = 26
+Roll: -17.25, Pitch: 0.33, Yaw: -37.06
+angle = -670
+angle = 18
+Roll: -18.62, Pitch: 0.13, Yaw: -37.22
+angle = -724
+angle = 7
+Roll: -19.84, Pitch: -0.01, Yaw: -37.40
+angle = -771
+angle = 0
+Roll: -21.03, Pitch: -0.02, Yaw: -37.62
+angle = -817
+angle = -1
+Roll: -22.19, Pitch: -0.03, Yaw: -37.77
+angle = -862
+angle = -1
+Roll: -23.41, Pitch: -0.03, Yaw: -37.91
+angle = -910
+angle = -1
+Roll: -24.50, Pitch: -0.03, Yaw: -38.04
+angle = -952
+angle = -1
+Roll: -25.61, Pitch: -0.03, Yaw: -38.14
+angle = -995
+angle = -1
+Roll: -26.70, Pitch: -0.03, Yaw: -38.21
+angle = -1038
+angle = -1
+Roll: -27.56, Pitch: -0.04, Yaw: -38.28
+angle = -1071
+angle = -2
+Roll: -28.38, Pitch: -0.04, Yaw: -38.42
+angle = -1103
+angle = -2
+Roll: -29.24, Pitch: -0.05, Yaw: -38.56
+angle = -1137
+angle = -2
+Roll: -30.04, Pitch: -0.05, Yaw: -38.66
+angle = -1168
+angle = -2
+Roll: -30.75, Pitch: -0.05, Yaw: -38.75
+angle = -1195
+angle = -2
+Roll: -31.38, Pitch: -0.05, Yaw: -38.84
+angle = -1220
+angle = -2
+Roll: -31.99, Pitch: -0.05, Yaw: -38.93
+angle = -1244
+angle = -2
+Roll: -32.55, Pitch: -0.05, Yaw: -39.01
+angle = -1265
+angle = -2
+Roll: -33.06, Pitch: -0.05, Yaw: -39.10
+angle = -1285
+angle = -2
+Roll: -33.52, Pitch: -0.04, Yaw: -39.20
+angle = -1303
+angle = -2
+Roll: -33.94, Pitch: -0.05, Yaw: -39.30
+angle = -1319
+angle = -2
+Roll: -34.32, Pitch: -0.05, Yaw: -39.41
+angle = -1334
+angle = -2
+Roll: -34.67, Pitch: -0.05, Yaw: -39.50
+angle = -1348
+angle = -2
+Roll: -34.99, Pitch: -0.05, Yaw: -39.55
+angle = -1360
+angle = -2
+Roll: -35.28, Pitch: -0.05, Yaw: -39.56
+angle = -1371
+angle = -2
+Roll: -35.53, Pitch: -0.04, Yaw: -39.60
+angle = -1381
+angle = -2
+Roll: -35.74, Pitch: -0.04, Yaw: -39.65
+angle = -1389
+angle = -2
+Roll: -35.88, Pitch: -0.05, Yaw: -39.69
+angle = -1395
+angle = -2
+Roll: -35.95, Pitch: -0.05, Yaw: -39.70
+angle = -1398
+angle = -2
+Roll: -35.93, Pitch: -0.05, Yaw: -39.70
+angle = -1397
+angle = -2
+Roll: -35.81, Pitch: -0.05, Yaw: -39.69
+angle = -1392
+angle = -3
+Roll: -35.59, Pitch: -0.05, Yaw: -39.66
+angle = -1384
+angle = -3
+Roll: -35.25, Pitch: -0.05, Yaw: -39.62
+angle = -1371
+angle = -3
+Roll: -34.83, Pitch: -0.05, Yaw: -39.57
+angle = -1354
+angle = -2
+Roll: -34.31, Pitch: -0.05, Yaw: -39.51
+angle = -1334
+angle = -2
+Roll: -33.70, Pitch: -0.04, Yaw: -39.43
+angle = -1310
+angle = -2
+Roll: -33.00, Pitch: -0.04, Yaw: -39.34
+angle = -1283
+angle = -2
+Roll: -32.23, Pitch: -0.04, Yaw: -39.26
+angle = -1253
+angle = -2
+Roll: -32.23, Pitch: -0.04, Yaw: -39.19
+angle = -1253
+angle = -2
+Roll: -30.40, Pitch: -0.04, Yaw: -39.19
+angle = -1182
+angle = -2
+Roll: -29.34, Pitch: -0.03, Yaw: -39.00
+angle = -1140
+angle = -1
+Roll: -28.18, Pitch: -0.03, Yaw: -38.91
+angle = -1095
+angle = -1
+Roll: -26.93, Pitch: -0.02, Yaw: -38.86
+angle = -1047
+angle = -1
+Roll: -25.58, Pitch: -0.02, Yaw: -38.83
+angle = -994
+angle = -1
+Roll: -24.15, Pitch: -0.02, Yaw: -38.82
+angle = -939
+angle = -1
+Roll: -22.61, Pitch: -0.01, Yaw: -38.81
+angle = -879
+angle = 0
+Roll: -20.96, Pitch: -0.01, Yaw: -38.80
+angle = -815
+angle = 0
+Roll: -19.18, Pitch: -0.00, Yaw: -38.80
+angle = -746
+angle = 0
+Roll: -17.33, Pitch: 0.02, Yaw: -38.80
+angle = -673
+angle = 0
+Roll: -15.45, Pitch: 0.07, Yaw: -38.82
+angle = -600
+angle = 3
+Roll: -13.55, Pitch: 0.14, Yaw: -38.83
+angle = -526
+angle = 7
+Roll: -11.60, Pitch: 0.18, Yaw: -38.78
+angle = -451
+angle = 10
+Roll: -9.70, Pitch: 0.24, Yaw: -38.68
+angle = -377
+angle = 13
+Roll: -9.70, Pitch: 0.24, Yaw: -38.57
+angle = -377
+angle = 13
+Roll: -5.98, Pitch: 0.39, Yaw: -38.57
+angle = -232
+angle = 21
+Roll: -4.15, Pitch: 0.45, Yaw: -38.44
+angle = -161
+angle = 25
+Roll: -2.39, Pitch: 0.46, Yaw: -38.34
+angle = -93
+angle = 25
+Roll: -0.94, Pitch: 0.31, Yaw: -38.26
+angle = -36
+angle = 16
+Roll: -0.86, Pitch: 0.25, Yaw: -38.07
+angle = -33
+angle = 14
+Roll: -0.84, Pitch: 0.25, Yaw: -37.96
+angle = -32
+angle = 13
+Roll: -0.82, Pitch: 0.23, Yaw: -37.83
+angle = -32
+angle = 12
+Roll: -0.81, Pitch: 0.22, Yaw: -37.78
+angle = -31
+angle = 12
+Roll: -0.81, Pitch: 0.22, Yaw: -37.71
+angle = -31
+angle = 12
+Roll: -0.80, Pitch: 0.21, Yaw: -37.62
+angle = -31
+angle = 11
+Roll: -0.80, Pitch: 0.21, Yaw: -37.55
+angle = -31
+angle = 11
+Roll: -0.80, Pitch: 0.21, Yaw: -37.50
+angle = -31
+angle = 11
+Roll: -0.80, Pitch: 0.21, Yaw: -37.50
+angle = -31
+angle = 11
+Roll: -0.80, Pitch: 0.22, Yaw: -37.27
+angle = -31
+angle = 12
+Roll: -0.80, Pitch: 0.22, Yaw: -37.18
+angle = -31
+angle = 12
+Roll: -0.80, Pitch: 0.21, Yaw: -37.12
+angle = -31
+angle = 11
+Roll: -0.79, Pitch: 0.21, Yaw: -37.08
+angle = -30
+angle = 11
+Roll: -0.79, Pitch: 0.21, Yaw: -37.06
+angle = -30
+angle = 11
+Roll: -0.80, Pitch: 0.22, Yaw: -37.04
+angle = -31
+angle = 12
+Roll: -0.81, Pitch: 0.22, Yaw: -37.03
+angle = -31
+angle = 12
+Roll: -0.82, Pitch: 0.23, Yaw: -36.99
+angle = -31
+angle = 12
+Roll: -0.83, Pitch: 0.24, Yaw: -36.91
+angle = -32
+angle = 13
+Roll: -0.84, Pitch: 0.25, Yaw: -36.84
+angle = -32
+angle = 13
+Roll: -0.89, Pitch: 0.28, Yaw: -36.80
+angle = -34
+angle = 15
+Roll: -1.06, Pitch: 0.42, Yaw: -36.75
+angle = -41
+angle = 23
+Roll: -1.13, Pitch: 0.57, Yaw: -36.62
+angle = -43
+angle = 31
+Roll: -1.14, Pitch: 0.86, Yaw: -36.44
+angle = -44
+angle = 47
+Roll: -1.25, Pitch: 1.25, Yaw: -36.23
+angle = -48
+angle = 69
+Roll: -1.47, Pitch: 1.65, Yaw: -35.96
+angle = -57
+angle = 91
+Roll: -1.78, Pitch: 2.04, Yaw: -35.72
+angle = -69
+angle = 113
+Roll: -2.18, Pitch: 2.41, Yaw: -35.61
+angle = -84
+angle = 134
+Roll: -2.69, Pitch: 2.82, Yaw: -35.60
+angle = -104
+angle = 156
+Roll: -2.69, Pitch: 2.82, Yaw: -35.63
+angle = -104
+angle = 156
+Roll: -3.96, Pitch: 3.96, Yaw: -35.66
+angle = -153
+angle = 219
+Roll: -4.76, Pitch: 4.64, Yaw: -35.65
+angle = -185
+angle = 257
+Roll: -5.56, Pitch: 5.48, Yaw: -35.67
+angle = -216
+angle = 304
+Roll: -6.39, Pitch: 6.40, Yaw: -35.66
+angle = -248
+angle = 355
+Roll: -7.33, Pitch: 7.26, Yaw: -35.72
+angle = -284
+angle = 403
+Roll: -8.15, Pitch: 8.10, Yaw: -35.81
+angle = -316
+angle = 449
+Roll: -9.24, Pitch: 8.60, Yaw: -36.01
+angle = -359
+angle = 477
+Roll: -10.12, Pitch: 8.96, Yaw: -36.37
+angle = -393
+angle = 497
+Roll: -11.08, Pitch: 9.05, Yaw: -36.78
+angle = -430
+angle = 503
+Roll: -12.00, Pitch: 8.99, Yaw: -37.28
+angle = -466
+angle = 499
+Roll: -13.15, Pitch: 8.74, Yaw: -37.86
+angle = -511
+angle = 485
+Roll: -14.15, Pitch: 8.40, Yaw: -38.50
+angle = -550
+angle = 466
+Roll: -15.13, Pitch: 7.98, Yaw: -39.12
+angle = -588
+angle = 443
+Roll: -16.23, Pitch: 7.49, Yaw: -39.74
+angle = -631
+angle = 416
+Roll: -17.38, Pitch: 6.97, Yaw: -40.37
+angle = -675
+angle = 386
+Roll: -18.40, Pitch: 6.44, Yaw: -40.95
+angle = -715
+angle = 357
+Roll: -19.27, Pitch: 5.90, Yaw: -41.45
+angle = -749
+angle = 327
+Roll: -20.21, Pitch: 5.29, Yaw: -41.86
+angle = -785
+angle = 293
+Roll: -21.14, Pitch: 4.64, Yaw: -42.24
+angle = -822
+angle = 257
+Roll: -22.06, Pitch: 3.95, Yaw: -42.53
+angle = -857
+angle = 219
+Roll: -22.86, Pitch: 3.25, Yaw: -42.78
+angle = -889
+angle = 180
+Roll: -23.50, Pitch: 2.59, Yaw: -42.99
+angle = -913
+angle = 143
+Roll: -24.04, Pitch: 2.13, Yaw: -43.19
+angle = -934
+angle = 118
+Roll: -24.65, Pitch: 2.11, Yaw: -43.30
+angle = -958
+angle = 117
+Roll: -25.10, Pitch: 2.14, Yaw: -43.25
+angle = -976
+angle = 118
+Roll: -25.34, Pitch: 2.18, Yaw: -43.15
+angle = -985
+angle = 120
+Roll: -25.39, Pitch: 2.16, Yaw: -43.06
+angle = -987
+angle = 120
+Roll: -25.32, Pitch: 2.11, Yaw: -42.96
+angle = -984
+angle = 117
+Roll: -25.24, Pitch: 2.09, Yaw: -42.84
+angle = -981
+angle = 116
+Roll: -25.14, Pitch: 2.08, Yaw: -42.69
+angle = -977
+angle = 115
+Roll: -25.02, Pitch: 2.06, Yaw: -42.59
+angle = -973
+angle = 114
+Roll: -24.89, Pitch: 2.04, Yaw: -42.50
+angle = -967
+angle = 113
+Roll: -24.71, Pitch: 2.00, Yaw: -42.41
+angle = -960
+angle = 111
+Roll: -24.71, Pitch: 2.00, Yaw: -42.29
+angle = -960
+angle = 111
+Roll: -24.31, Pitch: 1.90, Yaw: -42.29
+angle = -945
+angle = 105
+Roll: -24.08, Pitch: 1.85, Yaw: -42.08
+angle = -936
+angle = 102
+Roll: -23.83, Pitch: 1.80, Yaw: -42.00
+angle = -926
+angle = 100
+Roll: -23.54, Pitch: 1.76, Yaw: -41.93
+angle = -915
+angle = 97
+Roll: -23.19, Pitch: 1.73, Yaw: -41.86
+angle = -902
+angle = 96
+Roll: -22.80, Pitch: 1.73, Yaw: -41.77
+angle = -886
+angle = 96
+Roll: -22.33, Pitch: 1.75, Yaw: -41.67
+angle = -868
+angle = 96
+Roll: -21.81, Pitch: 1.75, Yaw: -41.53
+angle = -848
+angle = 97
+Roll: -21.21, Pitch: 1.73, Yaw: -41.39
+angle = -824
+angle = 96
+Roll: -20.52, Pitch: 1.71, Yaw: -41.24
+angle = -797
+angle = 94
+Roll: -19.72, Pitch: 1.69, Yaw: -41.12
+angle = -766
+angle = 93
+Roll: -18.78, Pitch: 1.70, Yaw: -41.02
+angle = -730
+angle = 94
+Roll: -17.73, Pitch: 1.69, Yaw: -40.93
+angle = -689
+angle = 93
+Roll: -16.55, Pitch: 1.67, Yaw: -40.83
+angle = -643
+angle = 92
+Roll: -15.26, Pitch: 1.65, Yaw: -40.73
+angle = -593
+angle = 91
+Roll: -13.90, Pitch: 1.60, Yaw: -40.61
+angle = -540
+angle = 89
+Roll: -12.48, Pitch: 1.54, Yaw: -40.45
+angle = -485
+angle = 85
+Roll: -11.04, Pitch: 1.47, Yaw: -40.28
+angle = -429
+angle = 81
+Roll: -9.61, Pitch: 1.42, Yaw: -40.09
+angle = -373
+angle = 78
+Roll: -8.19, Pitch: 1.37, Yaw: -39.87
+angle = -318
+angle = 76
+Roll: -6.77, Pitch: 1.32, Yaw: -39.62
+angle = -263
+angle = 73
+Roll: -5.38, Pitch: 1.25, Yaw: -39.37
+angle = -209
+angle = 69
+Roll: -4.04, Pitch: 1.18, Yaw: -39.11
+angle = -157
+angle = 65
+Roll: -2.72, Pitch: 1.05, Yaw: -38.84
+angle = -105
+angle = 58
+Roll: -1.41, Pitch: 0.86, Yaw: -38.57
+angle = -54
+angle = 48
+Roll: -0.82, Pitch: 0.41, Yaw: -38.33
+angle = -32
+angle = 22
+Roll: -0.72, Pitch: 0.32, Yaw: -38.21
+angle = -27
+angle = 17
+Roll: -0.72, Pitch: 0.30, Yaw: -38.11
+angle = -27
+angle = 16
+Roll: -0.71, Pitch: 0.27, Yaw: -37.94
+angle = -27
+angle = 15
+Roll: -0.71, Pitch: 0.27, Yaw: -37.78
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.27, Yaw: -37.63
+angle = -27
+angle = 14
+Roll: -0.72, Pitch: 0.26, Yaw: -37.63
+angle = -27
+angle = 14
+Roll: -0.71, Pitch: 0.25, Yaw: -37.36
+angle = -27
+angle = 14
+Roll: -0.67, Pitch: 0.26, Yaw: -37.23
+angle = -26
+angle = 14
+Roll: -0.60, Pitch: 0.29, Yaw: -37.08
+angle = -23
+angle = 16
+Roll: -0.50, Pitch: 0.33, Yaw: -36.95
+angle = -19
+angle = 18
+Roll: -0.31, Pitch: 0.43, Yaw: -36.77
+angle = -12
+angle = 23
+Roll: -0.04, Pitch: 0.56, Yaw: -36.54
+angle = -1
+angle = 31
+Roll: 0.28, Pitch: 0.70, Yaw: -36.31
+angle = 11
+angle = 38
+Roll: 0.53, Pitch: 0.82, Yaw: -36.04
+angle = 20
+angle = 45
+Roll: 0.58, Pitch: 0.83, Yaw: -35.77
+angle = 22
+angle = 46
+Roll: 0.86, Pitch: 0.86, Yaw: -35.54
+angle = 33
+angle = 47
+Roll: 1.28, Pitch: 0.96, Yaw: -35.37
+angle = 49
+angle = 53
+Roll: 1.72, Pitch: 1.24, Yaw: -35.21
+angle = 66
+angle = 69
+Roll: 2.29, Pitch: 1.72, Yaw: -35.00
+angle = 89
+angle = 95
+Roll: 2.94, Pitch: 2.35, Yaw: -34.70
+angle = 114
+angle = 130
+Roll: 3.64, Pitch: 3.13, Yaw: -34.31
+angle = 141
+angle = 173
+Roll: 4.34, Pitch: 4.07, Yaw: -33.88
+angle = 168
+angle = 226
+Roll: 5.08, Pitch: 5.25, Yaw: -33.45
+angle = 197
+angle = 291
+Roll: 5.84, Pitch: 6.65, Yaw: -32.94
+angle = 226
+angle = 369
+Roll: 6.58, Pitch: 8.14, Yaw: -32.34
+angle = 255
+angle = 452
+Roll: 7.19, Pitch: 9.60, Yaw: -31.70
+angle = 279
+angle = 533
+Roll: 7.78, Pitch: 11.08, Yaw: -31.14
+angle = 302
+angle = 615
+Roll: 8.23, Pitch: 12.60, Yaw: -30.67
+angle = 319
+angle = 699
+Roll: 8.65, Pitch: 14.12, Yaw: -30.22
+angle = 336
+angle = 784
+Roll: 9.17, Pitch: 15.69, Yaw: -29.88
+angle = 356
+angle = 871
+Roll: 9.76, Pitch: 17.29, Yaw: -29.55
+angle = 379
+angle = 960
+Roll: 10.38, Pitch: 18.82, Yaw: -29.22
+angle = 403
+angle = 1045
+Roll: 10.93, Pitch: 20.25, Yaw: -28.91
+angle = 424
+angle = 1124
+Roll: 11.34, Pitch: 21.51, Yaw: -28.66
+angle = 440
+angle = 1195
+Roll: 11.60, Pitch: 22.71, Yaw: -28.52
+angle = 451
+angle = 1261
+Roll: 11.82, Pitch: 23.86, Yaw: -28.47
+angle = 459
+angle = 1325
+Roll: 12.02, Pitch: 24.99, Yaw: -28.46
+angle = 467
+angle = 1388
+Roll: 12.14, Pitch: 26.10, Yaw: -28.47
+angle = 472
+angle = 1449
+Roll: 12.14, Pitch: 27.14, Yaw: -28.55
+angle = 472
+angle = 1508
+Roll: 12.14, Pitch: 27.14, Yaw: -28.78
+angle = 472
+angle = 1508
+Roll: 11.65, Pitch: 28.90, Yaw: -29.18
+angle = 453
+angle = 1605
+Roll: 11.10, Pitch: 29.51, Yaw: -29.75
+angle = 431
+angle = 1639
+Roll: 10.27, Pitch: 29.90, Yaw: -30.48
+angle = 399
+angle = 1660
+Roll: 9.19, Pitch: 30.08, Yaw: -31.40
+angle = 357
+angle = 1671
+Roll: 9.19, Pitch: 30.08, Yaw: -32.52
+angle = 357
+angle = 1671
+Roll: 6.02, Pitch: 29.49, Yaw: -32.52
+angle = 233
+angle = 1638
+Roll: 3.74, Pitch: 28.45, Yaw: -35.52
+angle = 145
+angle = 1580
+Roll: 1.28, Pitch: 27.02, Yaw: -37.56
+angle = 49
+angle = 1500
+Roll: -1.18, Pitch: 25.30, Yaw: -39.72
+angle = -45
+angle = 1405
+Roll: -3.50, Pitch: 23.46, Yaw: -41.87
+angle = -136
+angle = 1303
+Roll: -5.59, Pitch: 21.58, Yaw: -43.92
+angle = -217
+angle = 1198
+Roll: -7.49, Pitch: 19.67, Yaw: -45.78
+angle = -291
+angle = 1092
+Roll: -9.32, Pitch: 17.63, Yaw: -47.49
+angle = -362
+angle = 979
+Roll: -11.13, Pitch: 15.43, Yaw: -49.07
+angle = -432
+angle = 857
+Roll: -12.91, Pitch: 13.12, Yaw: -50.50
+angle = -501
+angle = 728
+Roll: -14.53, Pitch: 10.86, Yaw: -51.75
+angle = -564
+angle = 603
+Roll: -15.91, Pitch: 8.78, Yaw: -52.78
+angle = -618
+angle = 487
+Roll: -17.07, Pitch: 6.92, Yaw: -53.56
+angle = -663
+angle = 384
+Roll: -18.08, Pitch: 5.22, Yaw: -54.12
+angle = -703
+angle = 289
+Roll: -19.02, Pitch: 3.57, Yaw: -54.50
+angle = -739
+angle = 198
+Roll: -19.92, Pitch: 1.98, Yaw: -54.73
+angle = -774
+angle = 109
+Roll: -20.75, Pitch: 0.49, Yaw: -54.82
+angle = -806
+angle = 27
+Roll: -21.54, Pitch: -0.95, Yaw: -54.79
+angle = -837
+angle = -52
+Roll: -22.32, Pitch: -2.31, Yaw: -54.68
+angle = -867
+angle = -128
+Roll: -23.01, Pitch: -3.56, Yaw: -54.55
+angle = -894
+angle = -197
+Roll: -23.59, Pitch: -4.67, Yaw: -54.42
+angle = -917
+angle = -259
+Roll: -24.02, Pitch: -5.62, Yaw: -54.31
+angle = -934
+angle = -312
+Roll: -24.36, Pitch: -6.42, Yaw: -54.19
+angle = -947
+angle = -356
+Roll: -24.74, Pitch: -7.33, Yaw: -54.03
+angle = -961
+angle = -407
+Roll: -25.12, Pitch: -8.45, Yaw: -53.85
+angle = -976
+angle = -469
+Roll: -25.50, Pitch: -9.61, Yaw: -53.68
+angle = -991
+angle = -533
+Roll: -25.79, Pitch: -10.68, Yaw: -53.48
+angle = -1003
+angle = -593
+Roll: -25.97, Pitch: -11.58, Yaw: -53.28
+angle = -1009
+angle = -643
+Roll: -26.02, Pitch: -12.31, Yaw: -53.08
+angle = -1011
+angle = -684
+Roll: -25.94, Pitch: -12.84, Yaw: -52.86
+angle = -1008
+angle = -713
+Roll: -25.73, Pitch: -13.13, Yaw: -52.61
+angle = -1000
+angle = -729
+Roll: -25.36, Pitch: -13.23, Yaw: -52.32
+angle = -986
+angle = -734
+Roll: -24.90, Pitch: -13.17, Yaw: -51.98
+angle = -968
+angle = -731
+Roll: -24.40, Pitch: -12.99, Yaw: -51.59
+angle = -948
+angle = -721
+Roll: -23.85, Pitch: -12.84, Yaw: -51.15
+angle = -927
+angle = -713
+Roll: -23.29, Pitch: -12.74, Yaw: -50.69
+angle = -905
+angle = -707
+Roll: -22.72, Pitch: -12.63, Yaw: -50.23
+angle = -883
+angle = -701
+Roll: -22.08, Pitch: -12.49, Yaw: -49.74
+angle = -858
+angle = -693
+Roll: -21.33, Pitch: -12.24, Yaw: -49.24
+angle = -829
+angle = -680
+Roll: -20.45, Pitch: -11.86, Yaw: -48.76
+angle = -795
+angle = -658
+Roll: -19.45, Pitch: -11.33, Yaw: -48.28
+angle = -756
+angle = -629
+Roll: -19.45, Pitch: -11.33, Yaw: -47.75
+angle = -756
+angle = -629
+Roll: -17.18, Pitch: -10.22, Yaw: -47.75
+angle = -668
+angle = -567
+Roll: -15.93, Pitch: -9.74, Yaw: -46.58
+angle = -619
+angle = -541
+Roll: -14.57, Pitch: -9.34, Yaw: -45.92
+angle = -566
+angle = -519
+Roll: -13.19, Pitch: -9.16, Yaw: -45.20
+angle = -512
+angle = -509
+Roll: -11.87, Pitch: -9.23, Yaw: -44.46
+angle = -461
+angle = -512
+Roll: -10.64, Pitch: -9.45, Yaw: -43.73
+angle = -413
+angle = -524
+Roll: -9.45, Pitch: -9.73, Yaw: -43.02
+angle = -367
+angle = -540
+Roll: -8.29, Pitch: -10.01, Yaw: -42.37
+angle = -322
+angle = -556
+Roll: -7.04, Pitch: -10.14, Yaw: -41.78
+angle = -273
+angle = -563
+Roll: -5.67, Pitch: -9.98, Yaw: -41.23
+angle = -220
+angle = -554
+Roll: -4.20, Pitch: -9.47, Yaw: -40.66
+angle = -163
+angle = -526
+Roll: -2.69, Pitch: -8.58, Yaw: -40.04
+angle = -104
+angle = -476
+Roll: -1.18, Pitch: -7.34, Yaw: -39.35
+angle = -45
+angle = -407
+Roll: 0.38, Pitch: -5.86, Yaw: -38.61
+angle = 14
+angle = -325
+Roll: 0.38, Pitch: -5.86, Yaw: -37.87
+angle = 14
+angle = -325
+Roll: 3.62, Pitch: -2.40, Yaw: -37.87
+angle = 140
+angle = -133
+Roll: 5.38, Pitch: -0.53, Yaw: -36.13
+angle = 209
+angle = -29
+Roll: 7.07, Pitch: 1.36, Yaw: -35.06
+angle = 275
+angle = 75
+Roll: 8.61, Pitch: 3.16, Yaw: -33.93
+angle = 334
+angle = 175
+Roll: 9.94, Pitch: 4.86, Yaw: -32.78
+angle = 386
+angle = 269
+Roll: 11.02, Pitch: 6.42, Yaw: -31.67
+angle = 428
+angle = 356
+Roll: 11.82, Pitch: 7.79, Yaw: -30.57
+angle = 459
+angle = 432
+Roll: 12.40, Pitch: 9.01, Yaw: -29.58
+angle = 482
+angle = 500
+Roll: 12.82, Pitch: 10.17, Yaw: -28.71
+angle = 498
+angle = 565
+Roll: 13.14, Pitch: 11.32, Yaw: -27.87
+angle = 511
+angle = 628
+Roll: 13.40, Pitch: 12.48, Yaw: -27.03
+angle = 520
+angle = 693
+Roll: 13.57, Pitch: 13.66, Yaw: -26.22
+angle = 527
+angle = 758
+Roll: 13.64, Pitch: 14.81, Yaw: -25.48
+angle = 530
+angle = 822
+Roll: 13.60, Pitch: 15.89, Yaw: -24.89
+angle = 528
+angle = 882
+Roll: 13.50, Pitch: 16.89, Yaw: -24.45
+angle = 525
+angle = 938
+Roll: 13.34, Pitch: 17.90, Yaw: -24.14
+angle = 518
+angle = 994
+Roll: 13.09, Pitch: 18.94, Yaw: -23.89
+angle = 509
+angle = 1052
+Roll: 12.74, Pitch: 19.99, Yaw: -23.64
+angle = 495
+angle = 1110
+Roll: 12.29, Pitch: 20.99, Yaw: -23.41
+angle = 477
+angle = 1166
+Roll: 11.76, Pitch: 21.90, Yaw: -23.27
+angle = 457
+angle = 1216
+Roll: 11.19, Pitch: 22.74, Yaw: -23.28
+angle = 435
+angle = 1263
+Roll: 10.65, Pitch: 23.52, Yaw: -23.36
+angle = 414
+angle = 1306
+Roll: 10.13, Pitch: 24.27, Yaw: -23.47
+angle = 393
+angle = 1348
+Roll: 9.58, Pitch: 24.96, Yaw: -23.60
+angle = 372
+angle = 1386
+Roll: 8.97, Pitch: 25.61, Yaw: -23.78
+angle = 348
+angle = 1422
+Roll: 8.12, Pitch: 26.18, Yaw: -24.05
+angle = 315
+angle = 1454
+Roll: 6.94, Pitch: 26.64, Yaw: -24.52
+angle = 269
+angle = 1479
+Roll: 5.52, Pitch: 26.99, Yaw: -25.23
+angle = 214
+angle = 1499
+Roll: 5.52, Pitch: 26.99, Yaw: -26.10
+angle = 214
+angle = 1499
+Roll: 2.69, Pitch: 27.39, Yaw: -26.10
+angle = 104
+angle = 1521
+Roll: 1.58, Pitch: 27.67, Yaw: -27.99
+angle = 61
+angle = 1537
+Roll: 0.70, Pitch: 28.09, Yaw: -28.78
+angle = 27
+angle = 1560
+Roll: -0.04, Pitch: 28.60, Yaw: -29.42
+angle = -1
+angle = 1588
+Roll: -0.69, Pitch: 29.14, Yaw: -30.02
+angle = -26
+angle = 1619
+Roll: -1.34, Pitch: 29.64, Yaw: -30.58
+angle = -52
+angle = 1646
+Roll: -2.12, Pitch: 30.02, Yaw: -31.12
+angle = -82
+angle = 1667
+Roll: -3.07, Pitch: 30.29, Yaw: -31.67
+angle = -119
+angle = 1682
+Roll: -3.07, Pitch: 30.29, Yaw: -32.30
+angle = -119
+angle = 1682
+Roll: -5.08, Pitch: 30.79, Yaw: -33.03
+angle = -197
+angle = 1710
+Roll: -6.03, Pitch: 31.14, Yaw: -33.79
+angle = -234
+angle = 1730
+Roll: -6.93, Pitch: 31.58, Yaw: -34.62
+angle = -269
+angle = 1754
+Roll: -7.71, Pitch: 32.10, Yaw: -35.44
+angle = -299
+angle = 1783
+Roll: -8.40, Pitch: 32.56, Yaw: -36.19
+angle = -326
+angle = 1808
+Roll: -9.06, Pitch: 32.91, Yaw: -36.85
+angle = -352
+angle = 1828
+Roll: -9.71, Pitch: 33.08, Yaw: -37.44
+angle = -377
+angle = 1837
+Roll: -10.44, Pitch: 32.97, Yaw: -37.98
+angle = -405
+angle = 1831
+Roll: -11.26, Pitch: 32.53, Yaw: -38.54
+angle = -437
+angle = 1807
+Roll: -12.20, Pitch: 31.70, Yaw: -39.16
+angle = -474
+angle = 1760
+Roll: -13.23, Pitch: 30.45, Yaw: -39.87
+angle = -514
+angle = 1691
+Roll: -14.33, Pitch: 28.80, Yaw: -40.63
+angle = -557
+angle = 1600
+Roll: -15.50, Pitch: 26.76, Yaw: -41.42
+angle = -602
+angle = 1486
+Roll: -16.82, Pitch: 24.32, Yaw: -42.17
+angle = -654
+angle = 1351
+Roll: -18.28, Pitch: 21.58, Yaw: -42.87
+angle = -711
+angle = 1198
+Roll: -19.72, Pitch: 18.86, Yaw: -43.55
+angle = -766
+angle = 1047
+Roll: -20.99, Pitch: 16.38, Yaw: -44.22
+angle = -816
+angle = 910
+Roll: -21.97, Pitch: 14.35, Yaw: -44.78
+angle = -854
+angle = 797
+Roll: -22.59, Pitch: 12.58, Yaw: -45.28
+angle = -878
+angle = 698
+Roll: -23.17, Pitch: 10.88, Yaw: -45.71
+angle = -901
+angle = 604
+Roll: -23.72, Pitch: 9.13, Yaw: -46.03
+angle = -922
+angle = 507
+Roll: -24.21, Pitch: 7.40, Yaw: -46.28
+angle = -941
+angle = 411
+Roll: -24.63, Pitch: 5.77, Yaw: -46.45
+angle = -957
+angle = 320
+Roll: -24.91, Pitch: 4.32, Yaw: -46.51
+angle = -968
+angle = 240
+Roll: -24.98, Pitch: 3.14, Yaw: -46.50
+angle = -971
+angle = 174
+Roll: -24.87, Pitch: 2.20, Yaw: -46.42
+angle = -967
+angle = 122
+Roll: -24.63, Pitch: 1.42, Yaw: -46.26
+angle = -957
+angle = 78
+Roll: -24.32, Pitch: 0.76, Yaw: -46.03
+angle = -945
+angle = 42
+Roll: -23.95, Pitch: 0.22, Yaw: -45.77
+angle = -931
+angle = 12
+Roll: -23.52, Pitch: -0.20, Yaw: -45.45
+angle = -914
+angle = -11
+Roll: -22.99, Pitch: -0.50, Yaw: -45.08
+angle = -893
+angle = -27
+Roll: -22.32, Pitch: -0.62, Yaw: -44.72
+angle = -868
+angle = -34
+Roll: -21.52, Pitch: -0.54, Yaw: -44.35
+angle = -836
+angle = -30
+Roll: -20.58, Pitch: -0.28, Yaw: -43.98
+angle = -800
+angle = -15
+Roll: -19.53, Pitch: 0.11, Yaw: -43.60
+angle = -759
+angle = 6
+Roll: -18.40, Pitch: 0.61, Yaw: -43.22
+angle = -715
+angle = 34
+Roll: -17.17, Pitch: 1.23, Yaw: -42.82
+angle = -667
+angle = 68
+Roll: -15.84, Pitch: 2.00, Yaw: -42.39
+angle = -615
+angle = 110
+Roll: -15.84, Pitch: 2.00, Yaw: -41.89
+angle = -615
+angle = 110
+Roll: -12.99, Pitch: 3.77, Yaw: -41.89
+angle = -505
+angle = 209
+Roll: -11.58, Pitch: 4.62, Yaw: -40.69
+angle = -450
+angle = 256
+Roll: -11.58, Pitch: 4.62, Yaw: -40.05
+angle = -450
+angle = 256
+Roll: -9.35, Pitch: 5.79, Yaw: -40.05
+angle = -363
+angle = 321
+Roll: -8.74, Pitch: 5.88, Yaw: -38.94
+angle = -339
+angle = 326
+Roll: -8.41, Pitch: 5.76, Yaw: -38.62
+angle = -327
+angle = 320
+Roll: -8.22, Pitch: 5.54, Yaw: -38.49
+angle = -319
+angle = 307
+Roll: -8.01, Pitch: 5.30, Yaw: -38.48
+angle = -311
+angle = 294
+Roll: -7.75, Pitch: 5.14, Yaw: -38.54
+angle = -301
+angle = 285
+Roll: -7.37, Pitch: 5.05, Yaw: -38.60
+angle = -286
+angle = 280
+Roll: -6.88, Pitch: 5.04, Yaw: -38.59
+angle = -267
+angle = 280
+Roll: -6.33, Pitch: 5.11, Yaw: -38.53
+angle = -246
+angle = 283
+Roll: -5.73, Pitch: 5.25, Yaw: -38.41
+angle = -223
+angle = 291
+Roll: -5.16, Pitch: 5.43, Yaw: -38.21
+angle = -200
+angle = 301
+Roll: -4.63, Pitch: 5.58, Yaw: -37.99
+angle = -179
+angle = 309
+Roll: -4.15, Pitch: 5.66, Yaw: -37.76
+angle = -161
+angle = 314
+Roll: -3.73, Pitch: 5.69, Yaw: -37.58
+angle = -144
+angle = 316
+Roll: -3.35, Pitch: 5.67, Yaw: -37.44
+angle = -130
+angle = 314
+Roll: -3.04, Pitch: 5.63, Yaw: -37.34
+angle = -118
+angle = 313
+Roll: -2.80, Pitch: 5.60, Yaw: -37.26
+angle = -108
+angle = 311
+Roll: -2.63, Pitch: 5.52, Yaw: -37.19
+angle = -102
+angle = 306
+Roll: -2.56, Pitch: 5.37, Yaw: -37.15
+angle = -99
+angle = 298
+Roll: -2.56, Pitch: 5.37, Yaw: -37.14
+angle = -99
+angle = 298
+Roll: -2.49, Pitch: 5.03, Yaw: -37.14
+angle = -96
+angle = 279
+Roll: -2.44, Pitch: 4.92, Yaw: -37.18
+angle = -94
+angle = 273
+Roll: -2.34, Pitch: 4.87, Yaw: -37.19
+angle = -90
+angle = 270
+Roll: -2.19, Pitch: 4.84, Yaw: -37.15
+angle = -85
+angle = 268
+Roll: -2.02, Pitch: 4.79, Yaw: -37.09
+angle = -78
+angle = 266
+Roll: -2.02, Pitch: 4.79, Yaw: -37.03
+angle = -78
+angle = 266
+Roll: -1.12, Pitch: 4.12, Yaw: -37.03
+angle = -43
+angle = 228
+Roll: -1.12, Pitch: 3.52, Yaw: -37.19
+angle = -43
+angle = 195
+Roll: -1.14, Pitch: 3.11, Yaw: -37.54
+angle = -44
+angle = 172
+Roll: -1.14, Pitch: 2.74, Yaw: -37.84
+angle = -44
+angle = 152
+Roll: -1.15, Pitch: 2.39, Yaw: -38.09
+angle = -44
+angle = 132
+Roll: -1.15, Pitch: 2.03, Yaw: -38.34
+angle = -44
+angle = 112
+Roll: -1.14, Pitch: 1.67, Yaw: -38.62
+angle = -44
+angle = 92
+Roll: -1.14, Pitch: 1.26, Yaw: -38.88
+angle = -44
+angle = 70
+Roll: -1.13, Pitch: 0.77, Yaw: -39.13
+angle = -43
+angle = 42
+Roll: -0.90, Pitch: 0.26, Yaw: -39.41
+angle = -35
+angle = 14
+Roll: -0.85, Pitch: 0.21, Yaw: -39.74
+angle = -32
+angle = 11
+Roll: -0.85, Pitch: 0.18, Yaw: -39.89
+angle = -32
+angle = 9
+Roll: -0.86, Pitch: 0.09, Yaw: -40.01
+angle = -33
+angle = 5
+Roll: -0.87, Pitch: 0.01, Yaw: -40.13
+angle = -33
+angle = 0
+Roll: -0.87, Pitch: -0.04, Yaw: -40.22
+angle = -33
+angle = -2
+Roll: -0.86, Pitch: -0.05, Yaw: -40.29
+angle = -33
+angle = -2
+Roll: -0.86, Pitch: -0.06, Yaw: -40.30
+angle = -33
+angle = -3
+Roll: -0.86, Pitch: -0.07, Yaw: -40.30
+angle = -33
+angle = -3
+Roll: -0.85, Pitch: -0.09, Yaw: -40.30
+angle = -32
+angle = -4
+Roll: -0.82, Pitch: -0.12, Yaw: -40.30
+angle = -32
+angle = -6
+Roll: -0.81, Pitch: -0.16, Yaw: -40.28
+angle = -31
+angle = -9
+Roll: -0.82, Pitch: -0.14, Yaw: -40.20
+angle = -31
+angle = -7
+Roll: -0.83, Pitch: -0.12, Yaw: -40.10
+angle = -32
+angle = -6
+Roll: -0.84, Pitch: -0.10, Yaw: -40.00
+angle = -32
+angle = -5
+Roll: -0.87, Pitch: -0.05, Yaw: -39.95
+angle = -33
+angle = -3
+Roll: -0.87, Pitch: -0.05, Yaw: -40.00
+angle = -33
+angle = -2
+Roll: -0.87, Pitch: -0.04, Yaw: -40.18
+angle = -33
+angle = -2
+Roll: -0.83, Pitch: 0.22, Yaw: -40.46
+angle = -32
+angle = 12
+Roll: -0.83, Pitch: 0.21, Yaw: -40.69
+angle = -32
+angle = 11
+Roll: -0.86, Pitch: 0.12, Yaw: -40.98
+angle = -33
+angle = 6
+Roll: -0.86, Pitch: 0.06, Yaw: -41.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -41.92
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -42.35
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.08, Yaw: -42.74
+angle = -33
+angle = 4
+Roll: -0.85, Pitch: 0.06, Yaw: -43.07
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.30
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.47
+angle = -32
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.07, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.07, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.07, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.46
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.45
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.87, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.87, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.87, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.87, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.44
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.43
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.87, Pitch: 0.07, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.07, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.42
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.41
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.06, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.06, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.06, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.06, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.06, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.06, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.40
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.06, Yaw: -43.39
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.05, Yaw: -43.39
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 3
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.04, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.38
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.37
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.36
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.35
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.34
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.03, Yaw: -43.34
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.34
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.34
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.34
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.34
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.03, Yaw: -43.33
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.33
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.85, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.85, Pitch: 0.04, Yaw: -43.32
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.32
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.03, Yaw: -43.31
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.31
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.03, Yaw: -43.30
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.03, Yaw: -43.30
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 1
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.31
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.04, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.30
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.29
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 3
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.86, Pitch: 0.05, Yaw: -43.28
+angle = -33
+angle = 2
+Roll: -0.85, Pitch: 0.05, Yaw: -43.27
+angle = -33
+angle = 2

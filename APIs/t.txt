@@ -1,0 +1,118 @@
+In file included from src/CommandQueue.cpp:1:0:
+include/CommandQueue.h:8:29: error: variable or field ‘InitializeCommandQueue’ declared void
+ void InitializeCommandQueue(SharedCommandQueue* pQ);
+                             ^
+include/CommandQueue.h:8:29: error: ‘SharedCommandQueue’ was not declared in this scope
+include/CommandQueue.h:8:49: error: ‘pQ’ was not declared in this scope
+ void InitializeCommandQueue(SharedCommandQueue* pQ);
+                                                 ^
+include/CommandQueue.h:9:19: error: ‘SharedCommandQueue’ was not declared in this scope
+ bool InsertAtTail(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                   ^
+include/CommandQueue.h:9:39: error: ‘pQ’ was not declared in this scope
+ bool InsertAtTail(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                       ^
+include/CommandQueue.h:9:51: error: expected primary-expression before ‘*’ token
+ bool InsertAtTail(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                   ^
+include/CommandQueue.h:9:53: error: ‘pMsg’ was not declared in this scope
+ bool InsertAtTail(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                     ^
+include/CommandQueue.h:9:57: error: expression list treated as compound expression in initializer [-fpermissive]
+ bool InsertAtTail(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                         ^
+include/CommandQueue.h:10:19: error: ‘SharedCommandQueue’ was not declared in this scope
+ bool InsertAtHead(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                   ^
+include/CommandQueue.h:10:39: error: ‘pQ’ was not declared in this scope
+ bool InsertAtHead(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                       ^
+include/CommandQueue.h:10:51: error: expected primary-expression before ‘*’ token
+ bool InsertAtHead(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                   ^
+include/CommandQueue.h:10:53: error: ‘pMsg’ was not declared in this scope
+ bool InsertAtHead(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                     ^
+include/CommandQueue.h:10:57: error: expression list treated as compound expression in initializer [-fpermissive]
+ bool InsertAtHead(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                         ^
+include/CommandQueue.h:11:16: error: ‘SharedCommandQueue’ was not declared in this scope
+ bool RemoveMsg(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                ^
+include/CommandQueue.h:11:36: error: ‘pQ’ was not declared in this scope
+ bool RemoveMsg(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                    ^
+include/CommandQueue.h:11:48: error: expected primary-expression before ‘*’ token
+ bool RemoveMsg(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                ^
+include/CommandQueue.h:11:50: error: ‘pMsg’ was not declared in this scope
+ bool RemoveMsg(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                  ^
+include/CommandQueue.h:11:54: error: expression list treated as compound expression in initializer [-fpermissive]
+ bool RemoveMsg(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+                                                      ^
+src/CommandQueue.cpp:18:30: error: variable or field ‘InitializedCommandQueue’ declared void
+ void InitializedCommandQueue(SharedCommandQueue* pQueue)
+                              ^
+src/CommandQueue.cpp:18:30: error: ‘SharedCommandQueue’ was not declared in this scope
+src/CommandQueue.cpp:18:50: error: ‘pQueue’ was not declared in this scope
+ void InitializedCommandQueue(SharedCommandQueue* pQueue)
+                                                  ^
+src/CommandQueue.cpp:23:19: error: redefinition of ‘bool InsertAtTail’
+ bool InsertAtTail(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                   ^
+In file included from src/CommandQueue.cpp:1:0:
+include/CommandQueue.h:9:6: error: ‘bool InsertAtTail’ previously defined here
+ bool InsertAtTail(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+      ^
+src/CommandQueue.cpp:23:19: error: ‘SharedCommandQueue’ was not declared in this scope
+ bool InsertAtTail(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                   ^
+src/CommandQueue.cpp:23:39: error: ‘pQueue’ was not declared in this scope
+ bool InsertAtTail(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                       ^
+src/CommandQueue.cpp:23:55: error: expected primary-expression before ‘*’ token
+ bool InsertAtTail(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                                       ^
+src/CommandQueue.cpp:23:57: error: ‘pMsg’ was not declared in this scope
+ bool InsertAtTail(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                                         ^
+src/CommandQueue.cpp:34:19: error: redefinition of ‘bool InsertAtHead’
+ bool InsertAtHead(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                   ^
+In file included from src/CommandQueue.cpp:1:0:
+include/CommandQueue.h:10:6: error: ‘bool InsertAtHead’ previously defined here
+ bool InsertAtHead(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+      ^
+src/CommandQueue.cpp:34:19: error: ‘SharedCommandQueue’ was not declared in this scope
+ bool InsertAtHead(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                   ^
+src/CommandQueue.cpp:34:39: error: ‘pQueue’ was not declared in this scope
+ bool InsertAtHead(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                       ^
+src/CommandQueue.cpp:34:55: error: expected primary-expression before ‘*’ token
+ bool InsertAtHead(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                                       ^
+src/CommandQueue.cpp:34:57: error: ‘pMsg’ was not declared in this scope
+ bool InsertAtHead(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                                         ^
+src/CommandQueue.cpp:46:16: error: redefinition of ‘bool RemoveMsg’
+ bool RemoveMsg(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                ^
+In file included from src/CommandQueue.cpp:1:0:
+include/CommandQueue.h:11:6: error: ‘bool RemoveMsg’ previously defined here
+ bool RemoveMsg(SharedCommandQueue* pQ, TPCANMsg* pMsg);
+      ^
+src/CommandQueue.cpp:46:16: error: ‘SharedCommandQueue’ was not declared in this scope
+ bool RemoveMsg(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                ^
+src/CommandQueue.cpp:46:36: error: ‘pQueue’ was not declared in this scope
+ bool RemoveMsg(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                    ^
+src/CommandQueue.cpp:46:52: error: expected primary-expression before ‘*’ token
+ bool RemoveMsg(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                                    ^
+src/CommandQueue.cpp:46:54: error: ‘pMsg’ was not declared in this scope
+ bool RemoveMsg(SharedCommandQueue* pQueue, TPCANMsg* pMsg)
+                                                      ^
+make: *** [obj/CommandQueue.o] 오류 1
